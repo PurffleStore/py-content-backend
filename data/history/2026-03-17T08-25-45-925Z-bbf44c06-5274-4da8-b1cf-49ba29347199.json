@@ -1,0 +1,311 @@
+{
+  "id": "2026-03-17T08-25-45-925Z-bbf44c06-5274-4da8-b1cf-49ba29347199",
+  "jobId": "bbf44c06-5274-4da8-b1cf-49ba29347199",
+  "title": "Fun with Rhyming Poems",
+  "grade": "2",
+  "subject": "english",
+  "level": "medium",
+  "chapter": "Poetry",
+  "prompt": "",
+  "createdAt": "2026-03-17T08:25:45.925Z",
+  "coverImage": "/generated-images/ff7b61d4-409e-4902-810c-f5e08109df92.png",
+  "lessons": [
+    {
+      "title": "Fun with Rhyming Poems",
+      "grade": "2",
+      "subject": "English",
+      "level": "medium",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Identify rhyming words in simple poems",
+        "Recognize the pattern of sounds at the end of words",
+        "Create their own rhyming word pairs"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "pattern",
+          "definition": "something that repeats in the same way"
+        },
+        {
+          "word": "sound",
+          "definition": "what we hear when someone speaks"
+        },
+        {
+          "word": "pair",
+          "definition": "two things that go together"
+        },
+        {
+          "word": "poem",
+          "definition": "words written to sound musical and fun"
+        },
+        {
+          "word": "end",
+          "definition": "the last part of something"
+        }
+      ],
+      "warmUp": "Let's clap and say words that sound the same! I'll say 'cat' and you say 'hat'! Ready? Cat-hat, dog-log, bee-tree, sun-fun! Great job finding rhyming words!",
+      "mainExplanation": "Rhyming words sound the same at the end, like 'cat' and 'hat'. When we write poems, we can use rhyming words to make them sound musical and fun. Listen for words that end with the same sounds!",
+      "workedExamples": [
+        "POEM 1 — My Happy Day:\nI like to play outside today\nWith friends who laugh and run and say\nLet's jump and hop in every way\nAnd make it such a happy day"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What rhymes with 'day' in the poem? Choose: cat, play, dog",
+            "type": "fill-in-blank",
+            "hint": "Look at the end sounds in each line"
+          },
+          {
+            "question": "Match the rhyming words from the poem: today - _____, say - _____, way - _____",
+            "type": "matching",
+            "hint": "Find words that sound the same at the end"
+          },
+          {
+            "question": "In the poem, what do the friends do? They laugh and _____ and say.",
+            "type": "fill-in-blank",
+            "hint": "Look at the second line of the poem"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this line from the poem: 'Let's jump and hop in every _____'",
+            "type": "fill-in-blank",
+            "hint": "What word rhymes with day, play, and say?"
+          },
+          {
+            "question": "Match these word pairs from the poem that rhyme together: today/play, say/way, day/happy",
+            "type": "matching",
+            "hint": "Listen for the same ending sounds"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one sentence about what the child wants to do with friends in this poem.",
+            "type": "fill-in-blank",
+            "hint": "Think about playing, jumping, and having a happy day"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Where does the speaker like to play?",
+          "options": [
+            "A) outside",
+            "B) inside",
+            "C) at school",
+            "D) in bed"
+          ],
+          "answer": "A",
+          "explanation": "The poem says 'I like to play outside today'"
+        },
+        {
+          "question": "What do the friends do in the poem?",
+          "options": [
+            "A) cry and sit",
+            "B) laugh and run",
+            "C) sleep and eat",
+            "D) read and write"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'With friends who laugh and run'"
+        },
+        {
+          "question": "What kind of movements do they want to do?",
+          "options": [
+            "A) walk and crawl",
+            "B) jump and hop",
+            "C) swim and dive",
+            "D) sit and stand"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'Let's jump and hop in every way'"
+        },
+        {
+          "question": "How does the speaker feel about the day?",
+          "options": [
+            "A) sad",
+            "B) angry",
+            "C) happy",
+            "D) tired"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'make it such a happy day'"
+        },
+        {
+          "question": "What words rhyme with 'play' in the poem?",
+          "options": [
+            "A) day and say",
+            "B) jump and hop",
+            "C) friends and run",
+            "D) happy and laugh"
+          ],
+          "answer": "A",
+          "explanation": "The words 'play', 'say', 'way', and 'day' all rhyme in this poem"
+        }
+      ],
+      "answerKey": "1. A) outside - The poem clearly states playing outside\n2. B) laugh and run - Direct quote from the poem\n3. B) jump and hop - These are the movements mentioned\n4. C) happy - The poem calls it a 'happy day'\n5. A) day and say - These words rhyme with 'play' in the poem",
+      "teacherNotes": "Have students clap along as you read the poem aloud. Point out the rhyming words and have children repeat them with clapping. Practice saying rhyming word pairs together with rhythm. Use picture cards to help visual learners connect rhyming sounds.",
+      "additionalResources": "Picture cards of rhyming pairs, audio recordings of nursery rhymes, rhyming word worksheets, poetry books for young readers",
+      "description": "Students explore simple poems and learn to identify rhyming words through interactive activities. They practice finding words that sound alike and create their own rhymes.",
+      "images": {
+        "cover": "/generated-images/ff7b61d4-409e-4902-810c-f5e08109df92.png",
+        "content": [],
+        "poems": [
+          "/generated-images/6761f57d-7e04-4f04-bf57-62408d3e0cdb.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Warm-up Activity (5 minutes)**: Gather students in a circle and sing 'Twinkle, Twinkle, Little Star' together. After singing, ask students what they notice about the words 'star' and 'are' - do they sound similar at the end? Introduce that these are called rhyming words. **Introduction to Rhyming (10 minutes)**: Write 'cat' and 'hat' on the board. Say both words slowly, emphasizing the '-at' sound. Explain that rhyming words sound the same at the end. Show picture cards of common rhyming pairs (dog/frog, sun/fun, bee/tree) and have students say each pair aloud together. **Interactive Practice (15 minutes)**: Read aloud 'Humpty Dumpty' nursery rhyme, pausing at rhyming words (wall/fall, men/again). Have students clap when they hear rhyming words. Next, play 'Rhyme Time' - say a word like 'book' and have students raise hands to suggest rhyming words (look, took, cook). Write successful pairs on the board. **Poem Exploration (10 minutes)**: Read a simple 4-line poem with clear AABB rhyme scheme (lines 1&2 rhyme, lines 3&4 rhyme). Have students identify the rhyming words and discuss how they make the poem sound musical. **Creative Activity (15 minutes)**: Give each student a worksheet with pictures (cat, bat, hat, rat). Have them draw lines connecting rhyming pictures and create their own rhyming word pairs using provided picture cards. Encourage them to say their word pairs aloud to check if they rhyme. **Wrap-up and Assessment (5 minutes)**: Have volunteers share one rhyming pair they created. End by reciting 'Row, Row, Row Your Boat' together, with students identifying the rhyming words (stream/dream).",
+        "teacherNotes": "Use exaggerated pronunciation when teaching rhyming sounds - stretch out the ending sounds so students can clearly hear the similarities. Many students confuse words that start with the same sound (cat/car) with rhyming words - consistently emphasize that rhyming happens at the END of words. Keep a visual rhyme chart on the wall with common word families (-at, -an, -op) that students can reference. Some students may suggest words that are close but don't perfectly rhyme (like 'cat' and 'cut') - acknowledge their thinking but guide them to true rhymes. For students who struggle, start with very obvious rhymes using single-syllable words before moving to more complex examples."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to the World of Rhyming!",
+          "body": "Hello, young poets! Today we're going to discover something magical about words. Some words like to play together because they sound almost the same at the end. These special word friends are called rhyming words!\n\nLook at these word pairs: cat and hat, dog and log, bee and tree. Can you hear how they sound similar? When you say 'cat' and then 'hat', your mouth makes the same '-at' sound at the end. That's what makes them rhyme!\n\nRhyming words make poems sound musical and fun to say. Poets love to use them because they create a special rhythm that makes you want to clap along. Let's explore this wonderful world of rhyming together!",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "They make poems sound musical",
+            "Examples: cat-hat, dog-log, bee-tree"
+          ],
+          "activities": [
+            "Say each rhyming pair out loud and listen to the ending sounds"
+          ],
+          "callout": "Rhyming words are like best friends - they love to sound alike!",
+          "figureCaption": "A colorful illustration showing a cat wearing a hat, a dog sitting on a log, and a bee by a tree"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Learning About Sounds",
+          "title": "How Do Words Rhyme?",
+          "body": "To understand rhyming, we need to listen carefully to the sounds at the end of words. When words rhyme, they share the same ending sound, even if they start differently.\n\nLet's practice with some examples. Say the word 'sun' slowly: s-u-n. Now say 'fun': f-u-n. Did you notice that both words end with the '-un' sound? That's why they rhyme!\n\nTry this with more words: 'book' ends with '-ook', and so does 'look' and 'took'. The beginning letters are different (b, l, t), but the ending sound is the same. This is the secret to finding rhyming words!",
+          "bullets": [
+            "Listen to the ending sounds of words",
+            "Different beginnings can still rhyme",
+            "Practice saying words slowly to hear the sounds"
+          ],
+          "activities": [
+            "Clap while saying sun-fun, book-look-took to feel the rhythm"
+          ],
+          "callout": "The ending sound is what matters most for rhyming!",
+          "figureCaption": "Children pointing to their ears, listening carefully to word sounds"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Our First Poem",
+          "title": "My Happy Day - A Rhyming Poem",
+          "body": "Now let's read our first rhyming poem together. This poem is about a child who wants to play outside with friends. As you read, listen for the words that rhyme!\n\n**My Happy Day**\nI like to play outside today\nWith friends who laugh and run and say\nLet's jump and hop in every way\nAnd make it such a happy day\n\nDid you hear the rhyming words? Every line ends with the same sound: today, say, way, and day. They all have the '-ay' sound at the end. This makes the poem flow like a song and makes it fun to read out loud!",
+          "bullets": [
+            "All four lines end with the '-ay' sound",
+            "The poem flows like a song",
+            "It's about playing outside with friends"
+          ],
+          "activities": [
+            "Read the poem aloud and clap on the rhyming words"
+          ],
+          "callout": "This poem has perfect rhymes - every line rhymes with every other line!",
+          "figureCaption": "Happy children playing outside, jumping and running in a sunny yard"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Understanding the Poem",
+          "title": "What Happens in 'My Happy Day'?",
+          "body": "Let's think about what the child in our poem wants to do. The speaker says 'I like to play outside today.' This tells us they love being outdoors instead of staying inside.\n\nThe child wants to be 'with friends who laugh and run and say.' This means they want to play with other children who are happy and active. Good friends make everything more fun!\n\nThen the poem says 'Let's jump and hop in every way.' The child is so excited about playing that they want to try all kinds of movements - jumping up high and hopping around. Finally, they want to 'make it such a happy day.' This shows that playing with friends makes them feel joyful and content.",
+          "bullets": [
+            "The child loves playing outside",
+            "Friends make playing more fun",
+            "Jumping and hopping show excitement",
+            "The day feels happy and special"
+          ],
+          "activities": [
+            "Act out jumping and hopping like the children in the poem"
+          ],
+          "callout": "Playing with friends outside makes this child feel very happy!",
+          "figureCaption": "A group of diverse children laughing, jumping, and playing together in a park"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Finding More Rhymes",
+          "title": "Let's Hunt for Rhymes!",
+          "body": "Now that you know how rhyming works, let's practice finding more rhyming words! Remember, we're looking for words that sound the same at the end.\n\nThink about the word 'night'. What words might rhyme with it? Try 'light', 'bright', 'sight', and 'right'. They all end with the '-ight' sound! How about the word 'rain'? It rhymes with 'train', 'plain', and 'main' because they all end with '-ain'.\n\nSometimes rhyming words can have different spellings but still sound the same. For example, 'blue' and 'flew' both end with the same 'oo' sound, even though they're spelled differently. The important thing is how they sound when you say them out loud!",
+          "bullets": [
+            "night rhymes with light, bright, sight",
+            "rain rhymes with train, plain, main",
+            "Spelling can be different if sounds are the same",
+            "Always listen to how words sound"
+          ],
+          "activities": [
+            "Think of three words that rhyme with 'cake'"
+          ],
+          "callout": "Good rhyme hunters use their ears more than their eyes!",
+          "figureCaption": "A child with a magnifying glass 'hunting' for rhyming words written on colorful word cards"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Making Your Own Rhymes",
+          "title": "Be a Rhyming Poet!",
+          "body": "Now it's your turn to create rhyming words! Start with a simple word like 'cat'. What words can you think of that rhyme with 'cat'? Try 'hat', 'bat', 'mat', 'rat', and 'sat'. Great job!\n\nOnce you have rhyming words, you can make up your own short poems. Here's an example: 'The cat wore a hat, sat on a mat, and saw a fat rat!' Can you hear all the rhyming words?\n\nTry making rhymes with your name or favorite things. If your name is Jake, you might rhyme it with 'cake', 'lake', or 'make'. Remember, the most important thing is to have fun with words and sounds!",
+          "bullets": [
+            "Start with simple words like 'cat'",
+            "Build word families that rhyme",
+            "Create short poems with your rhyming words",
+            "Use your name or favorite things for inspiration"
+          ],
+          "activities": [
+            "Write down five words that rhyme with your favorite animal"
+          ],
+          "callout": "Every great poet started by playing with simple rhyming words!",
+          "figureCaption": "A young child writing in a colorful notebook, with thought bubbles showing rhyming word pairs"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Rhyming Games and Fun",
+          "title": "Let's Play Rhyming Games!",
+          "body": "Rhyming is even more fun when we turn it into games! Here are some exciting ways to practice finding rhyming words with your friends and family.\n\n**Rhyme Time Circle**: Sit in a circle and start with one word. The next person has to say a word that rhymes with it. Keep going around the circle until you can't think of any more rhymes!\n\n**Rhyming Story**: Tell a story where every sentence ends with rhyming words. For example: 'Once there was a mouse in a house. She liked to play every day. She found some cheese that made her say please!'\n\n**Clapping Rhymes**: Say rhyming words while clapping your hands. This helps you feel the rhythm of the rhymes. Try clapping to: red-bed-fed, big-pig-wig!",
+          "bullets": [
+            "Play Rhyme Time Circle with friends",
+            "Create rhyming stories together",
+            "Clap while saying rhymes to feel the beat",
+            "Take turns being the rhyme leader"
+          ],
+          "activities": [
+            "Play one of these rhyming games with a family member"
+          ],
+          "callout": "Games make learning about rhymes even more exciting!",
+          "figureCaption": "Children sitting in a circle, smiling and clapping while playing rhyming games together"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Review and Celebration",
+          "title": "You're a Rhyming Expert!",
+          "body": "Congratulations! You've learned so much about rhyming words and poems. You now know that rhyming words sound the same at the end, like 'cat' and 'hat' or 'play' and 'day'.\n\nYou've read the poem 'My Happy Day' and found all the rhyming words in it. You've practiced making your own rhyming word families and even learned some fun rhyming games to play with others.\n\nRemember, rhyming makes poems sound musical and fun. When you hear rhymes in songs, stories, or poems, you'll recognize them right away. Keep practicing with new words, and soon you'll be creating your own beautiful rhyming poems! Poetry is all around us, and now you have the tools to enjoy it even more.",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "Poems use rhymes to sound musical",
+            "You can find rhymes in songs and stories",
+            "Practice makes you better at rhyming"
+          ],
+          "activities": [
+            "Share your favorite rhyming words with someone special"
+          ],
+          "callout": "You're now ready to discover rhymes everywhere you go!",
+          "figureCaption": "A proud child holding a certificate that says 'Rhyming Expert' with stars and musical notes around it"
+        }
+      ],
+      "poemSummaries": [
+        "A child is having a wonderful time playing outside with friends. They are laughing, running, jumping, and hopping together. The poem shows how much fun they are having on this special day."
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "poetry patterns",
+        "sound recognition"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

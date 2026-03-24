@@ -1,0 +1,324 @@
+{
+  "id": "2026-03-17T10-06-24-743Z-5f19ed5f-8ce0-4559-8fdc-a52ad9961613",
+  "jobId": "5f19ed5f-8ce0-4559-8fdc-a52ad9961613",
+  "title": "Fun Animal Poems",
+  "grade": "1",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "Poem- 1:\nWrite a short, simple poem for young children using easy rhyming words about a friendly cat playing in the garden. The poem should have 6 lines and a cheerful tone.\nPoem -2:\nWrite a short, playful poem for early learners about a happy dog running in the park, using clear rhyming words and simple vocabulary. The poem should contain 6 lines and be easy to read aloud.",
+  "createdAt": "2026-03-17T10:06:24.744Z",
+  "coverImage": "/generated-images/e6f356da-b9f4-4c48-b4d8-6f701c94417d.png",
+  "lessons": [
+    {
+      "title": "Fun Animal Poems",
+      "grade": "1",
+      "subject": "English",
+      "level": "basic",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Recognize rhyming words in simple poems",
+        "Read aloud short poems with expression",
+        "Identify animals and their actions in poetry"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyming",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "garden",
+          "definition": "a place outside where plants and flowers grow"
+        },
+        {
+          "word": "chasing",
+          "definition": "running after something to catch it"
+        },
+        {
+          "word": "wagging",
+          "definition": "moving back and forth quickly"
+        },
+        {
+          "word": "bouncy",
+          "definition": "moving up and down in a happy way"
+        },
+        {
+          "word": "delight",
+          "definition": "feeling very happy and pleased"
+        }
+      ],
+      "warmUp": "Let's clap and say animal sounds! When I say 'cat' you say 'meow' and clap twice. When I say 'dog' you say 'woof' and clap twice. Ready? Cat! Dog! Cat! Dog!",
+      "mainExplanation": "Animal poems tell stories about pets and animals we love. They use rhyming words that sound the same at the end, like 'cat' and 'hat' or 'run' and 'fun'. These poems help us picture happy animals playing and moving around.",
+      "workedExamples": [
+        "POEM 1 — Friendly Garden Cat:\nFluffy cat loves to play\nIn the garden every day\nChasing leaves that dance and spin\nWith a happy, playful grin\nRolling softly in the sun\nHaving lots and lots of fun",
+        "POEM 2 — Happy Park Dog:\nBouncy dog runs so fast\nThrough the park from first to last\nTail wagging left and right\nFilled with joy and pure delight\nJumping high up in the air\nHappiness is everywhere"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What animal loves to play in the garden every day?",
+            "type": "fill-in-blank",
+            "hint": "Look at the first poem title and first line"
+          },
+          {
+            "question": "Match the animal to what it does: Cat - _____, Dog - _____",
+            "type": "matching",
+            "hint": "One chases leaves, one runs fast"
+          },
+          {
+            "question": "What is the dog's tail doing in the poem?",
+            "type": "fill-in-blank",
+            "hint": "It moves left and right"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this line from the cat poem: 'Chasing leaves that dance and _____'",
+            "type": "fill-in-blank",
+            "hint": "What do the leaves do with the dancing?"
+          },
+          {
+            "question": "Match the feeling words to the right animal: Cat has _____ fun, Dog has _____ delight",
+            "type": "matching",
+            "hint": "One word starts with 'l', one starts with 'p'"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one sentence about what the bouncy dog does in the park.",
+            "type": "fill-in-blank",
+            "hint": "Think about running, jumping, and tail wagging"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Where does the fluffy cat love to play?",
+          "options": [
+            "A) garden",
+            "B) house",
+            "C) street",
+            "D) store"
+          ],
+          "answer": "A",
+          "explanation": "The poem says 'Fluffy cat loves to play in the garden every day.'"
+        },
+        {
+          "question": "What does the cat chase in the garden?",
+          "options": [
+            "A) birds",
+            "B) leaves",
+            "C) mice",
+            "D) balls"
+          ],
+          "answer": "B",
+          "explanation": "The poem tells us the cat is 'chasing leaves that dance and spin.'"
+        },
+        {
+          "question": "Where does the bouncy dog run?",
+          "options": [
+            "A) beach",
+            "B) park",
+            "C) yard",
+            "D) forest"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'Bouncy dog runs so fast through the park.'"
+        },
+        {
+          "question": "What does the dog's tail do?",
+          "options": [
+            "A) hide",
+            "B) sleep",
+            "C) wag",
+            "D) jump"
+          ],
+          "answer": "C",
+          "explanation": "The poem describes 'tail wagging left and right.'"
+        },
+        {
+          "question": "How does the dog feel?",
+          "options": [
+            "A) sad",
+            "B) happy",
+            "C) tired",
+            "D) angry"
+          ],
+          "answer": "B",
+          "explanation": "The poem says the dog is 'filled with joy and pure delight' and 'happiness is everywhere.'"
+        }
+      ],
+      "answerKey": "1. A) garden - The cat plays in the garden every day. 2. B) leaves - The cat chases leaves that dance and spin. 3. B) park - The dog runs through the park. 4. C) wag - The dog's tail wags left and right. 5. B) happy - The dog is filled with joy and delight.",
+      "teacherNotes": "Have students clap along with the rhythm of each poem. Read each line slowly and ask children to repeat the rhyming words they hear. Encourage them to act out the animal movements while reciting. Use animal sound effects to keep engagement high.",
+      "additionalResources": "Animal picture books, rhyming word games, animal movement videos, simple poetry collections for children",
+      "description": "Students explore fun animal poems and discover rhyming words. They practice reading aloud with expression while learning about cats and dogs.",
+      "images": {
+        "cover": "/generated-images/e6f356da-b9f4-4c48-b4d8-6f701c94417d.png",
+        "content": [],
+        "poems": [
+          "/generated-images/5325b608-362c-4550-b2d9-8fb76ac6b304.png",
+          "/generated-images/63152485-4073-43e4-8d36-042812f5ae6e.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Warm-up (5 minutes)**: Begin by asking students to name their favorite animals and make the animal sounds together. Introduce the concept that we'll be reading special stories about animals called poems. **Introduction to Rhyming (10 minutes)**: Explain that poems have special words that sound alike at the end - these are called rhyming words. Demonstrate with simple pairs: cat/hat, dog/log, run/fun. Have students clap when they hear words that rhyme. Practice with more pairs like bee/tree and play/day. **First Animal Poem Reading (10 minutes)**: Read aloud a simple animal poem like 'I Have a Little Cat' slowly and clearly. Ask students to listen for rhyming words. Read it again, having students raise their hands when they hear rhyming words. Point out the animals mentioned and what they're doing. **Interactive Rhyming Activity (8 minutes)**: Give students word cards with animal-related words. Call out a word and have students find its rhyming partner. Examples: cat/bat, pig/big, mouse/house. Celebrate correct matches with animal sounds. **Expression Practice (10 minutes)**: Teach students to read with 'animal voices' - loud like a lion, quiet like a mouse, or bouncy like a rabbit. Practice reading short two-line animal poems with different expressions. Model how to make your voice match the animal's personality. **Animal Actions Identification (7 minutes)**: Read a new animal poem and have students act out what the animals are doing (hopping, flying, swimming). Discuss action words like 'jump,' 'run,' 'sleep' that they hear in the poems. **Wrap-up and Review (5 minutes)**: Review what rhyming words are by having students share one rhyming pair they remember. Ask students to name one animal and one action from today's poems. End with everyone reciting a simple animal poem together with expression.",
+        "teacherNotes": "Keep poems very short (2-4 lines) as Grade 1 attention spans are limited. Use picture books with animal poems to provide visual support for comprehension. Common misconception: students may think any two words that start with the same sound rhyme - emphasize that rhyming happens at the END of words. Have students put their hand to their ear when listening for rhymes to help them focus on sounds. If students struggle with expression, start with just loud/quiet voice before adding character voices."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to Animal Poems!",
+          "body": "Have you ever heard a poem? Poems are special stories that use words in fun ways! Today we're going to read poems about animals we love, like cats and dogs. Animal poems tell us about the exciting things pets do every day.\n\nWhen we read poems, we listen for special words called rhyming words. Rhyming words sound the same at the end. Can you think of a word that rhymes with 'cat'? How about 'hat'! They both end with the same sound.\n\nGet ready to meet some wonderful animal friends in our poems. We'll see what they like to do and where they like to play. You might even want to act out what the animals are doing!",
+          "bullets": [
+            "Poems are special stories with fun words",
+            "Rhyming words sound the same at the end",
+            "We can act out what animals do in poems"
+          ],
+          "activities": [
+            "Say 'meow' when you see a cat word, say 'woof' when you see a dog word"
+          ],
+          "callout": "Listen for words that sound alike!",
+          "figureCaption": "A happy cat and dog playing together in a sunny yard"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Vocabulary",
+          "title": "New Words We'll Learn",
+          "body": "Before we read our animal poems, let's learn some new words! These words will help us understand what the animals are doing in the poems.\n\nRhyming words are words that sound the same at the end, like 'day' and 'play'. A garden is a special place outside where flowers and plants grow. When animals are chasing something, they are running after it to catch it.\n\nSome animals are bouncy, which means they move up and down in a happy way. When dogs are happy, their tails go wagging back and forth. When we feel delight, we feel very happy and pleased about something wonderful.",
+          "bullets": [
+            "Rhyming - words that sound the same at the end",
+            "Garden - a place where plants grow outside",
+            "Chasing - running after something",
+            "Bouncy - moving up and down happily",
+            "Wagging - moving back and forth quickly",
+            "Delight - feeling very happy"
+          ],
+          "activities": [
+            "Practice saying each new word three times"
+          ],
+          "callout": "These words help us understand our animal friends!",
+          "figureCaption": "Word pictures showing a garden, a wagging tail, and bouncing movements"
+        },
+        {
+          "pageNumber": 3,
+          "section": "First Poem",
+          "title": "Friendly Garden Cat",
+          "body": "Now let's read our first animal poem together! This poem is about a fluffy cat who loves to play in the garden. Listen carefully for the rhyming words as we read.\n\nFluffy cat loves to play\nIn the garden every day\nChasing leaves that dance and spin\nWith a happy, playful grin\nRolling softly in the sun\nHaving lots and lots of fun\n\nDid you hear the rhyming words? 'Play' and 'day' sound the same at the end! So do 'spin' and 'grin', and 'sun' and 'fun'. The cat in this poem is having a wonderful time outside.",
+          "bullets": [
+            "The cat plays in the garden every day",
+            "The cat chases dancing leaves",
+            "The cat rolls happily in the sunshine",
+            "The cat has lots of fun playing"
+          ],
+          "activities": [
+            "Clap twice when you hear rhyming words",
+            "Act like a cat chasing leaves"
+          ],
+          "callout": "Can you find three pairs of rhyming words?",
+          "figureCaption": "A fluffy orange cat playing with colorful autumn leaves in a sunny garden"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Understanding the Cat",
+          "title": "What Does Our Cat Like to Do?",
+          "body": "Let's think about what the fluffy cat does in the garden. The cat loves to chase leaves that are moving in the wind. The leaves dance and spin around, and the cat tries to catch them with its paws.\n\nThe cat also likes to roll softly in the warm sunshine. Can you imagine how good the sun feels on the cat's fur? The cat has a happy, playful grin on its face because it's having so much fun.\n\nEvery day, the cat goes to the garden to play. The garden must be the cat's favorite place! What do you think makes the garden so special for this cat?",
+          "bullets": [
+            "The cat chases moving leaves",
+            "The cat rolls in the warm sun",
+            "The cat has a happy grin",
+            "The garden is the cat's favorite place"
+          ],
+          "activities": [
+            "Show me your happy, playful grin like the cat",
+            "Roll gently like the cat in the sunshine"
+          ],
+          "callout": "The cat visits the garden every single day!",
+          "figureCaption": "Close-up of a smiling cat lying in a patch of warm sunlight"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Second Poem",
+          "title": "Happy Park Dog",
+          "body": "Now let's meet another animal friend! This poem is about a bouncy dog who loves to run and play in the park. Get ready to listen for more rhyming words!\n\nBouncy dog runs so fast\nThrough the park from first to last\nTail wagging left and right\nFilled with joy and pure delight\nJumping high up in the air\nHappiness is everywhere\n\nWow! This dog is full of energy! Did you catch the rhyming words this time? 'Fast' and 'last' rhyme, 'right' and 'delight' rhyme, and 'air' and 'everywhere' rhyme too!",
+          "bullets": [
+            "The dog runs very fast through the park",
+            "The dog's tail wags left and right",
+            "The dog jumps high in the air",
+            "The dog feels joy and happiness"
+          ],
+          "activities": [
+            "Wag like a dog's tail",
+            "Jump high like the bouncy dog"
+          ],
+          "callout": "This dog is filled with pure delight!",
+          "figureCaption": "A golden retriever mid-jump in a green park with its tail wagging happily"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Understanding the Dog",
+          "title": "What Makes Our Dog So Happy?",
+          "body": "The bouncy dog in our poem loves being active and moving around. The dog runs so fast through the park, going from one end all the way to the other end. That's a lot of running!\n\nWhile the dog runs, its tail wags left and right. When dogs wag their tails, it means they are very happy and excited. This dog is filled with joy and pure delight, which means it feels wonderful and cheerful.\n\nThe dog also loves to jump high up in the air! Jumping must make the dog feel free and playful. The poem says 'happiness is everywhere' because the dog's joy spreads all around the park.",
+          "bullets": [
+            "The dog runs from one end of the park to the other",
+            "A wagging tail means the dog is happy",
+            "Jumping makes the dog feel free and playful",
+            "The dog's happiness spreads everywhere"
+          ],
+          "activities": [
+            "Run in place like the fast dog",
+            "Practice jumping as high as you can"
+          ],
+          "callout": "When dogs wag their tails, they're showing us they're happy!",
+          "figureCaption": "A dog running with children in a park, everyone laughing and playing together"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Comparing Our Animals",
+          "title": "Cat and Dog Friends",
+          "body": "Now that we've met both animal friends, let's think about how they are the same and how they are different. Both the cat and the dog love to play and have fun! They both spend time outside in places they enjoy.\n\nThe cat likes quiet play in the garden, chasing leaves and rolling in the sun. The cat moves more slowly and gently. The dog likes active play in the park, running fast and jumping high. The dog has lots of energy and moves quickly.\n\nBoth animals feel very happy when they play. The cat has 'lots of fun' and the dog has 'pure delight'. Even though they play differently, they both love their special outdoor places!",
+          "bullets": [
+            "Both animals love to play outside",
+            "The cat plays gently, the dog plays actively",
+            "The cat likes the garden, the dog likes the park",
+            "Both animals feel very happy when playing"
+          ],
+          "activities": [
+            "Move like the gentle cat, then like the bouncy dog",
+            "Tell a friend which animal you're more like"
+          ],
+          "callout": "Different animals can both be happy in their own special ways!",
+          "figureCaption": "A peaceful scene showing a cat in a garden and a dog in a park, both looking happy"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Wrap-up",
+          "title": "Our Animal Poem Adventure",
+          "body": "What a wonderful journey we've taken with our animal friends! We learned about rhyming words and how they make poems sound musical and fun. We met a friendly cat who loves garden adventures and a bouncy dog who enjoys park playtime.\n\nPoems help us use our imagination to picture animals having fun. When we read about the cat chasing leaves, we can imagine ourselves in that sunny garden. When we read about the dog jumping in the air, we can feel that happy energy too!\n\nRemember, rhyming words are everywhere in poems. They help make the poems fun to say and easy to remember. Keep listening for rhyming words in other poems and stories you read!",
+          "bullets": [
+            "We learned about rhyming words in poems",
+            "We met a garden cat and a park dog",
+            "Poems help us use our imagination",
+            "We can feel the animals' happiness too"
+          ],
+          "activities": [
+            "Create your own rhyming words with animal names",
+            "Draw your favorite animal from the poems"
+          ],
+          "callout": "You can find rhyming words in many poems and songs!",
+          "figureCaption": "Children sitting in a circle, smiling and sharing their favorite parts of the animal poems"
+        }
+      ],
+      "poemSummaries": [
+        "A fluffy cat spends time playing in a sunny garden. The cat chases dancing leaves and rolls around happily in the warm sunshine. The poem shows how much fun the cat has during its playtime outside.",
+        "A bouncy dog runs quickly through the park with its tail wagging. The dog jumps high in the air and feels very happy and excited. The poem captures the dog's joyful energy as it plays in the park."
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "animal poems",
+        "reading aloud"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

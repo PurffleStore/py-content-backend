@@ -1,0 +1,283 @@
+{
+  "id": "2026-03-16T05-06-29-401Z-2f746326-fd53-4f5b-a2af-389cf3331588",
+  "jobId": "2f746326-fd53-4f5b-a2af-389cf3331588",
+  "title": "My First Stories",
+  "grade": "1",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Stories and Narratives",
+  "prompt": "",
+  "createdAt": "2026-03-16T05:06:29.401Z",
+  "coverImage": null,
+  "lessons": [
+    {
+      "title": "My First Stories",
+      "grade": "1",
+      "subject": "English",
+      "level": "basic",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Identify characters in simple stories",
+        "Tell the difference between real and pretend stories",
+        "Share their own story ideas using pictures and words"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "character",
+          "definition": "a person or animal in a story"
+        },
+        {
+          "word": "real",
+          "definition": "something that can really happen"
+        },
+        {
+          "word": "pretend",
+          "definition": "something made up or imaginary"
+        },
+        {
+          "word": "story",
+          "definition": "words that tell about something that happens"
+        },
+        {
+          "word": "picture",
+          "definition": "a drawing that shows something"
+        },
+        {
+          "word": "idea",
+          "definition": "a thought you have in your mind"
+        }
+      ],
+      "warmUp": "Let's play 'Story Time Clap'! I'll say a character name and you clap once if they're real, twice if they're pretend. Ready? Dog! (clap once) Dragon! (clap-clap) Teacher! (clap once) Unicorn! (clap-clap)",
+      "mainExplanation": "Stories have characters - these are the people or animals in the story. Some stories are real, like things that happen to us. Other stories are pretend, with magic or talking animals. We can make our own stories using pictures and words to tell about characters and what happens to them.",
+      "workedExamples": [
+        {
+          "label": "Example 1",
+          "question": "In 'The Three Little Pigs,' who are the characters?",
+          "answer": "The three pigs and the big bad wolf are the characters in this pretend story."
+        },
+        {
+          "label": "Example 2",
+          "question": "Is a story about going to the grocery store real or pretend?",
+          "answer": "Going to the grocery store is real because people really do this every day."
+        },
+        {
+          "label": "Example 3",
+          "question": "How can you make your own story?",
+          "answer": "Draw a picture of a character, then tell what happens to them using simple words."
+        }
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "A _______ is a person or animal in a story.",
+            "type": "fill-in-blank",
+            "hint": "This word starts with 'c' and means someone in a story"
+          },
+          {
+            "question": "Match the words: Real story | Pretend story | A story about a talking dog | A story about going to the park",
+            "type": "matching",
+            "hint": "Think about what can really happen"
+          },
+          {
+            "question": "Every story has a _______.",
+            "type": "fill-in-blank",
+            "hint": "This word rhymes with 'picture'"
+          }
+        ],
+        "medium": [
+          {
+            "question": "A story about flying cats is _______.",
+            "type": "fill-in-blank",
+            "hint": "Can cats really fly?"
+          },
+          {
+            "question": "Match the character to the story: Dog | Princess | Farmer | Pet story | Fairy tale | Farm story",
+            "type": "matching",
+            "hint": "Think about where each character belongs"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "You can tell your own story using _______ and words.",
+            "type": "fill-in-blank",
+            "hint": "You can draw these to help tell your story"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Who is a character in a story?",
+          "options": [
+            "The people or animals in the story",
+            "The book cover",
+            "The page numbers",
+            "The words"
+          ],
+          "answer": "A",
+          "explanation": "Characters are the people or animals that are in the story."
+        },
+        {
+          "question": "Which story is REAL?",
+          "options": [
+            "A dragon flies to school",
+            "A boy eats lunch",
+            "A cat talks to mice",
+            "A tree walks around"
+          ],
+          "answer": "B",
+          "explanation": "A boy eating lunch is something that really happens. The other choices are pretend."
+        },
+        {
+          "question": "Which story is PRETEND?",
+          "options": [
+            "A girl rides her bike",
+            "A dog barks at the mailman",
+            "A fish drives a car",
+            "A mom makes dinner"
+          ],
+          "answer": "C",
+          "explanation": "Fish cannot drive cars. This is pretend. The other choices are real things that happen."
+        },
+        {
+          "question": "What can help you tell your own story?",
+          "options": [
+            "Pictures and words",
+            "Only numbers",
+            "Only colors",
+            "Only shapes"
+          ],
+          "answer": "A",
+          "explanation": "Pictures and words help you share your story ideas with others."
+        },
+        {
+          "question": "What is an idea for a story?",
+          "options": [
+            "A thought about what could happen",
+            "A red crayon",
+            "A math problem",
+            "A lunch box"
+          ],
+          "answer": "A",
+          "explanation": "An idea is a thought about what could happen in your story."
+        }
+      ],
+      "answerKey": "Quiz Answers: 1-A, 2-B, 3-C, 4-A, 5-A. Practice Exercises: Easy - character, pretend, character; Medium - pretend, matches as indicated; Challenge - pictures. Exit Ticket: Students should draw and describe a story character using simple words.",
+      "teacherNotes": "Use lots of clapping and hand motions when identifying characters. Have students act out being different story characters. Encourage them to share their story ideas with a partner using their drawings. Model story creation by drawing simple stick figures and using basic vocabulary.",
+      "additionalResources": "Picture books with clear characters, chart paper for real vs pretend lists, drawing materials, simple story worksheets, character cards for matching activities",
+      "description": "Students learn to identify story characters and distinguish between real and pretend stories. They create their own mini stories using pictures and simple words.",
+      "images": {
+        "cover": null,
+        "content": [],
+        "poems": []
+      },
+      "resourceSections": {
+        "teacherGuide": "**Warm-up (5 minutes)**: Gather students on the carpet and show a familiar picture book. Ask 'Who can tell me about the characters in this story?' Point to characters and have students name them. **Story Time (10 minutes)**: Read aloud a simple story with clear characters (like 'The Three Little Pigs'). Stop periodically to ask 'Who are the characters we've met so far?' Write character names on the board with simple drawings. **Real vs Pretend Discussion (8 minutes)**: Show two book covers - one realistic story about a child going to school, one fantasy with talking animals. Ask 'Which story could really happen? Which story is pretend?' Create two columns on chart paper labeled 'Real' and 'Pretend'. Have students give examples for each column. **Story Creation Activity (15 minutes)**: Distribute worksheets. Model the first section by drawing a simple character (stick figure child) and writing 'Sam' underneath. Show how to circle 'Real' because a child is real. Guide students through creating their own character, deciding if it's real or pretend, and drawing what happens in their story. **Sharing Time (7 minutes)**: Have 3-4 volunteers share their story character and one thing that happens. Ask the class to identify if each story is real or pretend.",
+        "teacherNotes": "Misconception: Students may think all animals in stories are pretend - clarify that real animals in realistic situations make stories real, but talking/magical animals make stories pretend. Tip: Use gestures and expressions when reading to help students identify characters more easily. Tip: Keep a basket of familiar books nearby for quick character identification practice if students finish early. Tip: Encourage invented spelling for story words - focus on story elements rather than perfect spelling at this stage. Tip: Some students may draw multiple characters - guide them to focus on one main character for this first story creation activity."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to Story Time!",
+          "body": "Stories are everywhere! You hear them at bedtime, read them in books, and even tell them to your friends. Every story has special people or animals called characters. Characters are the ones who do things in the story. They can be big or small, funny or serious, real or pretend.\n\nWhen you open a book or listen to someone tell a story, you get to meet these characters. Sometimes they are people just like you - children who go to school, play with toys, and eat dinner with their families. Other times they might be magical creatures like dragons, talking animals, or fairy tale princesses.",
+          "bullets": [
+            "Stories have characters - the people or animals in them",
+            "Characters can be real people or pretend creatures",
+            "You meet characters when you read or listen to stories"
+          ],
+          "activities": [
+            "Look at the pictures on this page and point to all the characters you can find"
+          ],
+          "callout": "A character is anyone or anything that does something in a story!",
+          "figureCaption": "These children are characters in a story about making new friends at school"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Real Stories",
+          "title": "Real Stories Happen Every Day",
+          "body": "Some stories are about real things that happen in real life. These are called real stories. A real story might be about a girl who learns to ride her bike, a boy who helps his mom cook dinner, or a family that goes to the park on a sunny day.\n\nReal stories have characters who do things that people really do. They eat food, play games, go to school, and sleep in beds. The characters in real stories look and act like people you know. They might even look and act like you!\n\nYou have real stories too! When you tell someone about your day at school, or what you did over the weekend, you are telling a real story. You are the main character in your own real stories.",
+          "bullets": [
+            "Real stories are about things that can really happen",
+            "Real story characters do things people really do",
+            "You are the main character in your own real stories"
+          ],
+          "activities": [
+            "Think of something real that happened to you today - that's your real story!"
+          ],
+          "callout": "If it can really happen, it's a real story!",
+          "figureCaption": "This family is having a real picnic - something that really happens"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Pretend Stories",
+          "title": "Pretend Stories Are Make-Believe",
+          "body": "Other stories are pretend, which means they are made up in someone's imagination. Pretend stories have magic, talking animals, or things that cannot really happen. These stories are fun because they let us imagine wonderful, impossible things.\n\nIn pretend stories, you might meet a cat who can talk and wear boots, a dragon who is friendly and loves to dance, or a tree that grows candy instead of leaves. The characters in pretend stories can do amazing things that real people and animals cannot do.\n\nPretend stories often start with 'Once upon a time' and might end with 'happily ever after.' They take us to magical places and let us dream about exciting adventures. Even though they are pretend, these stories can teach us important lessons about being kind, brave, and helpful.",
+          "bullets": [
+            "Pretend stories are made up and imaginary",
+            "Pretend characters can do magical or impossible things",
+            "Pretend stories often teach us important lessons"
+          ],
+          "activities": [
+            "Name three things that could only happen in a pretend story"
+          ],
+          "callout": "If it has magic or impossible things, it's a pretend story!",
+          "figureCaption": "This dragon reading a book is from a pretend story - dragons can't really read!"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Finding Characters",
+          "title": "Who Are the Characters?",
+          "body": "When you read or listen to a story, try to find all the characters. Some characters are more important than others. The main character is the most important one - the story is mostly about them. Other characters help tell the story too.\n\nCharacters can be people, animals, or even magical creatures. In the story of 'The Three Little Pigs,' the main characters are the three pigs. But don't forget about the big bad wolf - he's an important character too! In 'Goldilocks and the Three Bears,' Goldilocks is the main character, but the three bears are also important characters.\n\nSometimes characters have names like Sam, Maria, or Fluffy. Other times they might just be called 'the little girl' or 'the friendly dog.' Whether they have names or not, they are still characters if they do something in the story.",
+          "bullets": [
+            "The main character is the most important person or animal in the story",
+            "Other characters help make the story interesting",
+            "Characters can have names or just be called by what they are"
+          ],
+          "activities": [
+            "Think of your favorite story and name all the characters you remember"
+          ],
+          "callout": "Look for who DOES things in the story - those are the characters!",
+          "figureCaption": "Goldilocks is the main character, but the three bears are important characters too"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Story Creation",
+          "title": "You Can Make Your Own Stories!",
+          "body": "Did you know that you can create your very own stories? It's easy and fun! First, think of a character. It could be yourself, a pet, a friend, or even a made-up character like a superhero or a talking flower.\n\nNext, think about what happens to your character. Do they go on an adventure? Do they solve a problem? Do they make a new friend? Your character can do anything you can imagine! You can draw pictures to show what your character looks like and what happens in your story.\n\nStart with simple ideas. Maybe your character finds a lost puppy, or discovers a secret garden, or learns to fly a kite. Remember, if your story has things that can really happen, it's a real story. If it has magic or impossible things, it's a pretend story. Both kinds are wonderful!",
+          "bullets": [
+            "Start by thinking of a character for your story",
+            "Decide what happens to your character",
+            "Draw pictures to help tell your story"
+          ],
+          "activities": [
+            "Draw your favorite character and think of one thing they could do"
+          ],
+          "callout": "Your imagination can create the most amazing stories!",
+          "figureCaption": "This child is drawing her own story character - a brave princess with a magic paintbrush"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Sharing Stories",
+          "title": "Share Your Story Ideas",
+          "body": "Once you have an idea for a story, you can share it with others! You can tell your story out loud using your voice, or you can use pictures to show what happens. Some people like to act out their stories by pretending to be the characters.\n\nWhen you share your story, speak clearly so everyone can hear you. Show your pictures and explain who your characters are. Tell what happens first, then next, then at the end. Don't worry if your story is short - even one or two sentences can make a great story!\n\nListening to other people's stories is just as fun as telling your own. When someone else shares their story, be a good listener. Ask questions like 'Who is your main character?' or 'Is your story real or pretend?' This helps you understand their story better and shows that you care about what they created.",
+          "bullets": [
+            "You can share stories with your voice, pictures, or actions",
+            "Speak clearly when telling your story",
+            "Be a good listener when others share their stories"
+          ],
+          "activities": [
+            "Practice telling a simple story about what you did this morning"
+          ],
+          "callout": "Every story you create is special and worth sharing!",
+          "figureCaption": "These friends are sharing stories with each other and having fun listening"
+        }
+      ],
+      "keyTopics": [
+        "story characters",
+        "real vs pretend",
+        "story creation"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,105 @@
+{
+  "id": "2026-03-18T03-46-20-607Z-ace0652e-2c96-4278-a54b-3e6cd4a33fca",
+  "jobId": "ace0652e-2c96-4278-a54b-3e6cd4a33fca",
+  "title": "Maya's Magic Story",
+  "grade": "1",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Stories and Narratives",
+  "prompt": "",
+  "createdAt": "2026-03-18T03:46:20.607Z",
+  "coverImage": "/generated-images/7c444d75-8307-4acd-9afa-2849048a5e6e.png",
+  "lessons": [
+    {
+      "contentType": "story",
+      "title": "Maya's Magic Story",
+      "keyTopics": [
+        "story characters",
+        "real vs make-believe",
+        "storytelling"
+      ],
+      "description": "Maya tells her class about a flying cat named Whiskers. Everyone learns the difference between real and make-believe stories!",
+      "objectives": [
+        "Identify characters in simple stories",
+        "Tell the difference between real and make-believe stories",
+        "Share their own simple story with the class"
+      ],
+      "duration": "35 minutes",
+      "difficulty": "easy",
+      "storySummary": "Maya tells her class about a flying cat named Whiskers. Everyone learns the difference between real and make-believe stories!",
+      "paragraphs": [
+        "Maya sat in the reading circle with her classmates. Today was story-sharing day at school. She held a picture she drew of a fluffy orange cat with big wings. Maya took a deep breath and began to tell her story about Whiskers, the magical flying cat who lived in the clouds above their town.",
+        "In Maya's story, Whiskers could soar through the sky and talk to birds. The magic cat helped lost children find their way home by flying them on his back. Maya's friends listened with wide eyes as she described how Whiskers had rainbow-colored wings that sparkled in the sunlight.",
+        "When Maya finished, her teacher smiled proudly. The class clapped and discussed how Maya's story was make-believe because cats cannot really fly or talk. Then they shared real stories about their own pets at home. Maya felt happy that she had created such a wonderful imaginary tale to share with everyone."
+      ],
+      "moral": "Using your imagination to create stories is fun and special.",
+      "characters": [
+        "Maya",
+        "Whiskers"
+      ],
+      "setting": "Maya's classroom at school",
+      "storyQuestions": [
+        {
+          "question": "Who is the main character?",
+          "answer": "Maya"
+        },
+        {
+          "question": "What problem did they face?",
+          "answer": "Maya needed to share a story with her class"
+        },
+        {
+          "question": "How was the problem solved?",
+          "answer": "Maya told a story about a flying cat named Whiskers"
+        },
+        {
+          "question": "What is the moral of the story?",
+          "answer": "Using your imagination to create stories is fun and special"
+        },
+        {
+          "question": "What happened at the end?",
+          "answer": "The class discussed real versus make-believe stories and Maya felt happy"
+        }
+      ],
+      "keyVocabulary": [
+        {
+          "word": "classmates",
+          "definition": "other children in your class at school",
+          "usedInStory": "Maya sat in the reading circle with her classmates."
+        },
+        {
+          "word": "magical",
+          "definition": "having special powers that seem like magic",
+          "usedInStory": "She held a picture she drew of a fluffy orange cat with big wings and began to tell her story about Whiskers, the magical flying cat who lived in the clouds above their town."
+        },
+        {
+          "word": "soar",
+          "definition": "to fly high up in the sky",
+          "usedInStory": "In Maya's story, Whiskers could soar through the sky and talk to birds."
+        },
+        {
+          "word": "sparkled",
+          "definition": "shined with tiny bright lights",
+          "usedInStory": "Maya's friends listened with wide eyes as she described how Whiskers had rainbow-colored wings that sparkled in the sunlight."
+        },
+        {
+          "word": "make-believe",
+          "definition": "something that is not real, only in your imagination",
+          "usedInStory": "The class clapped and discussed how Maya's story was make-believe because cats cannot really fly or talk."
+        },
+        {
+          "word": "imaginary",
+          "definition": "something that exists only in your mind, not real",
+          "usedInStory": "Maya felt happy that she had created such a wonderful imaginary tale to share with everyone."
+        }
+      ],
+      "teacherNotes": "Use this story to help students identify characters (Maya and Whiskers) and distinguish between real and fantasy elements. Encourage discussion about what makes Whiskers make-believe versus real pets they know. Have students practice sharing their own simple stories, emphasizing that imagination is valuable. Ask comprehension questions about story sequence and character motivations to check understanding.",
+      "workedExamples": [],
+      "images": {
+        "cover": "/generated-images/7c444d75-8307-4acd-9afa-2849048a5e6e.png",
+        "content": [],
+        "poems": []
+      },
+      "lessonNumber": 1
+    }
+  ]
+}

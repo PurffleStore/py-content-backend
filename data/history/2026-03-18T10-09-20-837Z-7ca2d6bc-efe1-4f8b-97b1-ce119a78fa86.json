@@ -1,0 +1,105 @@
+{
+  "id": "2026-03-18T10-09-20-837Z-7ca2d6bc-efe1-4f8b-97b1-ce119a78fa86",
+  "jobId": "7ca2d6bc-efe1-4f8b-97b1-ce119a78fa86",
+  "title": "Buddy the Helper Dog",
+  "grade": "2",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Stories and Narratives",
+  "prompt": "Write a short, engaging story for early learners about a happy dog playing in the park and helping someone in need.\nThe story should be written in 5 paragraphs, use simple sentences, and include a clear moral lesson.",
+  "createdAt": "2026-03-18T10:09:20.838Z",
+  "coverImage": "/generated-images/b27d8f1c-fb56-4d01-9043-ba0bc8bc6e06.png",
+  "lessons": [
+    {
+      "contentType": "story",
+      "title": "Buddy the Helper Dog",
+      "keyTopics": [
+        "story characters",
+        "helping others",
+        "simple narratives"
+      ],
+      "description": "Buddy is a happy dog who loves playing in the park. When he sees someone who needs help, he shows how caring can make a big difference!",
+      "objectives": [
+        "Students will identify the main character and setting in a simple story",
+        "Students will understand the meaning of helping others through story events",
+        "Students will use simple words to describe characters and their actions"
+      ],
+      "duration": "35 minutes",
+      "difficulty": "easy",
+      "storySummary": "Buddy is a happy dog who loves playing in the park. When he sees someone who needs help, he shows how caring can make a big difference!",
+      "paragraphs": [
+        "Buddy was a happy golden dog who loved to play in the sunny park. Every morning, he would run and chase butterflies near the big oak tree. His tail wagged as he rolled in the soft green grass and barked with joy.",
+        "One day, Buddy saw a little girl sitting on a bench crying. She had dropped her favorite red balloon and it was stuck high in the tree branches. The girl looked very sad and didn't know what to do about her balloon.",
+        "Buddy jumped up high and grabbed the balloon string with his teeth. He gently pulled it down and gave it back to the happy girl. She hugged Buddy and thanked him for being such a kind helper dog."
+      ],
+      "moral": "Helping others when they are sad makes everyone feel happy.",
+      "characters": [
+        "Buddy",
+        "little girl"
+      ],
+      "setting": "sunny park with trees and benches",
+      "storyQuestions": [
+        {
+          "question": "Who is the main character?",
+          "answer": "Buddy the dog"
+        },
+        {
+          "question": "What problem did they face?",
+          "answer": "A little girl's balloon was stuck in a tree"
+        },
+        {
+          "question": "How was the problem solved?",
+          "answer": "Buddy jumped up and got the balloon down"
+        },
+        {
+          "question": "What is the moral of the story?",
+          "answer": "Helping others when they are sad makes everyone feel happy"
+        },
+        {
+          "question": "What happened at the end?",
+          "answer": "The girl hugged Buddy and thanked him"
+        }
+      ],
+      "keyVocabulary": [
+        {
+          "word": "butterflies",
+          "definition": "Pretty flying insects with colorful wings",
+          "usedInStory": "Every morning, he would run and chase butterflies near the big oak tree."
+        },
+        {
+          "word": "branches",
+          "definition": "The long parts of a tree that grow out from the trunk",
+          "usedInStory": "She had dropped her favorite red balloon and it was stuck high in the tree branches."
+        },
+        {
+          "word": "balloon",
+          "definition": "A colorful rubber toy filled with air that floats",
+          "usedInStory": "She had dropped her favorite red balloon and it was stuck high in the tree branches."
+        },
+        {
+          "word": "gently",
+          "definition": "In a soft and careful way",
+          "usedInStory": "He gently pulled it down and gave it back to the happy girl."
+        },
+        {
+          "word": "helper",
+          "definition": "Someone who gives help to others",
+          "usedInStory": "She hugged Buddy and thanked him for being such a kind helper dog."
+        },
+        {
+          "word": "wagged",
+          "definition": "Moved back and forth quickly like a dog's tail when happy",
+          "usedInStory": "His tail wagged as he rolled in the soft green grass and barked with joy."
+        }
+      ],
+      "teacherNotes": "Ask students to identify what made Buddy special and discuss times they have helped others. Have children act out the story, with some being Buddy and others being the sad girl. Check comprehension by asking students to retell the story in their own words and explain why helping others is important.",
+      "workedExamples": [],
+      "images": {
+        "cover": "/generated-images/b27d8f1c-fb56-4d01-9043-ba0bc8bc6e06.png",
+        "content": [],
+        "poems": []
+      },
+      "lessonNumber": 1
+    }
+  ]
+}

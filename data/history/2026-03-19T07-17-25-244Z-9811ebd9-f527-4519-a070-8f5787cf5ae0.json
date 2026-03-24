@@ -1,0 +1,307 @@
+{
+  "id": "2026-03-19T07-17-25-244Z-9811ebd9-f527-4519-a070-8f5787cf5ae0",
+  "jobId": "9811ebd9-f527-4519-a070-8f5787cf5ae0",
+  "title": "Fun with Simple Poems",
+  "grade": "1",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "",
+  "createdAt": "2026-03-19T07:17:25.244Z",
+  "coverImage": null,
+  "lessons": [
+    {
+      "title": "Fun with Simple Poems",
+      "grade": "1",
+      "subject": "English",
+      "level": "basic",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Recognize rhyming words in simple poems",
+        "Listen to and repeat short poems with expression",
+        "Identify feelings in poems through pictures and words"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "poem",
+          "definition": "special words that sound musical and fun"
+        },
+        {
+          "word": "feelings",
+          "definition": "how we feel inside, like happy or sad"
+        },
+        {
+          "word": "expression",
+          "definition": "using your voice to show feelings"
+        },
+        {
+          "word": "repeat",
+          "definition": "to say something again"
+        },
+        {
+          "word": "bright",
+          "definition": "full of light and happy"
+        }
+      ],
+      "warmUp": "Let's clap and say rhyming words together! I'll say 'cat' and you say 'hat'! Ready? Cat-hat, dog-log, bee-tree, sun-fun! Great job clapping with the rhymes!",
+      "mainExplanation": "Poems are special words that sound musical and fun! Some words in poems rhyme, which means they sound the same at the end. Poems can tell us about happy feelings, sad feelings, or excited feelings. We can hear the feelings in the words!",
+      "workedExamples": [
+        "POEM 1 — Happy Little Dog:\nI have a dog who loves to play\nHe runs around outside all day\nHis tail wags fast, his eyes are bright\nHe makes me smile with pure delight"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What animal loves to play in the poem?",
+            "type": "fill-in-blank",
+            "hint": "It has a tail that wags fast"
+          },
+          {
+            "question": "Match the word from the poem: The dog's eyes are ____",
+            "type": "matching",
+            "hint": "Look for a word that describes light"
+          },
+          {
+            "question": "What does the dog do outside all day?",
+            "type": "fill-in-blank",
+            "hint": "It's something fun that dogs like to do"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this line from the poem: 'His tail wags fast, his eyes are ____'",
+            "type": "fill-in-blank",
+            "hint": "Think about how eyes can look when happy"
+          },
+          {
+            "question": "Match the rhyming words from the poem: 'play' rhymes with ____",
+            "type": "matching",
+            "hint": "What word sounds like 'play' at the end?"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one sentence about what the happy little dog does in the poem.",
+            "type": "fill-in-blank",
+            "hint": "Think about where the dog goes and what he does there"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does the dog love to do?",
+          "options": [
+            "A) play",
+            "B) sleep",
+            "C) eat",
+            "D) swim"
+          ],
+          "answer": "A",
+          "explanation": "The poem says 'I have a dog who loves to play.'"
+        },
+        {
+          "question": "Where does the dog run around?",
+          "options": [
+            "A) inside",
+            "B) outside",
+            "C) upstairs",
+            "D) bedroom"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'He runs around outside all day.'"
+        },
+        {
+          "question": "How does the dog's tail move?",
+          "options": [
+            "A) slow",
+            "B) still",
+            "C) fast",
+            "D) up"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'His tail wags fast.'"
+        },
+        {
+          "question": "What are the dog's eyes like?",
+          "options": [
+            "A) dark",
+            "B) bright",
+            "C) closed",
+            "D) small"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'his eyes are bright.'"
+        },
+        {
+          "question": "How does the dog make the person feel?",
+          "options": [
+            "A) sad",
+            "B) angry",
+            "C) smile",
+            "D) tired"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'He makes me smile with pure delight.'"
+        }
+      ],
+      "answerKey": "1. A) play - The dog loves to play\n2. B) outside - He runs around outside all day\n3. C) fast - His tail wags fast\n4. B) bright - His eyes are bright\n5. C) smile - He makes me smile with pure delight",
+      "teacherNotes": "Have children clap along as you read each poem aloud. Encourage them to repeat the rhyming words like 'play-day' and 'bright-delight' with expression. Point to pictures of happy dogs to help them feel the joyful mood.",
+      "additionalResources": "Picture cards of animals and emotions, audio recordings of simple poems, rhyming word flashcards",
+      "description": "Students will explore simple poems and learn about rhyming words through fun activities. This engaging lesson introduces young learners to the joy of poetry with easy words and sounds.",
+      "images": {
+        "cover": null,
+        "content": [],
+        "poems": [
+          "/generated-images/2906b0f7-0721-4bed-97b5-9b1dfa2f6af0.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**LESSON OPENING (5 minutes)** Begin with a simple greeting song: 'Good morning, good morning, how do you do? Good morning, good morning, I'm happy with you!' Ask students what they noticed about the words 'morning' and 'do' - introduce that some words sound similar at the end. **INTRODUCTION TO RHYMING (10 minutes)** Explain rhyming using familiar word pairs. Say 'cat' and 'hat' - emphasize the '-at' sound. Have students repeat and clap when they hear the rhyme. Practice with: sun/fun, bee/tree, dog/log. Use exaggerated pronunciation and hand gestures. **POEM LISTENING ACTIVITY (10 minutes)** Read 'Twinkle, Twinkle, Little Star' slowly and expressively. Ask students to listen for words that sound the same at the end. Read again, having students raise hands when they hear rhyming words (star/are, high/sky). Practice saying the poem together with different voices - whisper voice, happy voice, sleepy voice. **FEELINGS IN POETRY (8 minutes)** Show picture cards of happy, sad, and excited faces. Read a happy poem like 'If You're Happy and You Know It' with big smiles and clapping. Then read a gentle, sleepy poem like 'Rock-a-Bye Baby' with soft voice. Ask students to match the feeling to each poem using the picture cards. **INTERACTIVE RHYME GAME (10 minutes)** Play 'Rhyme Time' - say a word and have students think of rhyming words. Start with simple ones: cat (hat, bat, mat), run (sun, fun, bun). Allow silly made-up rhyming words for engagement. Have students act out the words when possible. **POEM RECITATION PRACTICE (7 minutes)** Choose one simple poem learned today. Practice saying it with different expressions - happy, excited, gentle. Divide class into groups and have each group perform with a different feeling. Encourage hand movements and facial expressions. **CLOSING ACTIVITY (5 minutes)** Review what makes words rhyme by having students complete: 'I see a cat wearing a ___' (hat). Ask students to share their favorite rhyming words from today. End with a simple rhyming goodbye: 'See you later, alligator! After while, crocodile!'",
+        "teacherNotes": "Use lots of gestures and facial expressions when reading poems - Grade 1 students learn through visual and kinesthetic cues. Watch for students who struggle with hearing rhyming sounds - this is normal at this age, provide extra practice with very obvious rhymes like 'cat/hat' before moving to subtler ones. Some students may create nonsense rhyming words - celebrate this creativity as it shows they understand the concept. Keep energy high with clapping, movement, and voice changes to maintain engagement. If students seem restless, add more movement activities like marching to poem rhythms."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to the World of Poems!",
+          "body": "Hello, young poets! Today we're going on a magical journey into the world of poems. Poems are special words that sound like music when we say them out loud. They can make us feel happy, excited, or even sleepy!\n\nPoems are all around us. Maybe your mom or dad sang you a lullaby when you were little. That's a poem! Or maybe you know the song 'Twinkle, Twinkle, Little Star.' That's a poem too!\n\nThe best part about poems is that they're fun to say and easy to remember. Some words in poems sound alike at the end. We call these rhyming words, and they make poems sound musical and special.",
+          "bullets": [
+            "Poems are like musical words",
+            "They can make us feel different emotions",
+            "Some words in poems rhyme"
+          ],
+          "activities": [
+            "Listen to your teacher read a poem and clap your hands to the rhythm"
+          ],
+          "callout": "Poems make words dance and sing!",
+          "figureCaption": "Children sitting in a circle, listening to poems with big smiles"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Main Content",
+          "title": "What Are Rhyming Words?",
+          "body": "Rhyming words are words that sound the same at the end. Let's learn about them together!\n\nWhen we say 'cat' and 'hat,' do you hear how they both end with the same sound? That 'at' sound makes them rhyme! It's like they're best friends because they sound so similar.\n\nHere are some other rhyming word friends: sun and fun, bee and tree, dog and log. Can you hear how they sound alike at the end? Try saying them out loud and listen carefully.\n\nRhyming words make poems fun to say and easy to remember. When you hear rhyming words, you might want to clap or tap your feet because they sound so musical!",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "Examples: cat/hat, sun/fun, bee/tree",
+            "They make poems musical and fun"
+          ],
+          "activities": [
+            "Say these rhyming pairs out loud: cat-hat, sun-fun, bee-tree"
+          ],
+          "callout": "Listen for the same sounds at the end of words!",
+          "figureCaption": "Picture showing a cat wearing a hat, with the words 'cat' and 'hat' below"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Main Content",
+          "title": "Feelings in Poems",
+          "body": "Poems can show us how people feel inside. Some poems are happy and make us want to smile and dance. Other poems are quiet and gentle, like a soft hug.\n\nWhen we read a happy poem, we can use a cheerful voice with lots of energy. Try reading with a big smile on your face! When we read a gentle poem, we can use a soft, quiet voice, like we're telling a secret.\n\nThe words in poems help us understand feelings. Happy words might be 'play,' 'bright,' 'smile,' and 'fun.' Gentle words might be 'soft,' 'quiet,' 'sleep,' and 'dream.'\n\nYou can show feelings with your voice when you read poems. This is called reading with expression, and it makes poems come alive!",
+          "bullets": [
+            "Poems show different feelings",
+            "Happy poems make us smile and dance",
+            "We can use our voice to show feelings"
+          ],
+          "activities": [
+            "Practice reading with a happy voice, then try a gentle, quiet voice"
+          ],
+          "callout": "Your voice can show how a poem feels!",
+          "figureCaption": "Two children showing different emotions - one happy and dancing, one calm and peaceful"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Main Content",
+          "title": "Let's Read Our First Poem!",
+          "body": "Now it's time to read a real poem together! This poem is about a happy little dog who loves to play. As you listen, try to hear the rhyming words.\n\n'Happy Little Dog'\nI have a dog who loves to play\nHe runs around outside all day\nHis tail wags fast, his eyes are bright\nHe makes me smile with pure delight\n\nDid you hear the rhyming words? 'Play' rhymes with 'day,' and 'bright' rhymes with 'delight!' The dog in this poem is very happy and playful.\n\nThis poem makes us feel happy too! We can picture a cute dog running around outside, wagging his tail, and making everyone smile. When you read this poem, use a happy, excited voice to show how joyful the dog is!",
+          "bullets": [
+            "'Play' and 'day' rhyme",
+            "'Bright' and 'delight' rhyme",
+            "This is a happy poem about a playful dog"
+          ],
+          "activities": [
+            "Read the poem out loud with a happy voice"
+          ],
+          "callout": "Can you find the two pairs of rhyming words?",
+          "figureCaption": "A happy golden dog running in a sunny yard with his tail wagging"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Practice Section",
+          "title": "Let's Practice with Rhymes!",
+          "body": "Now let's practice finding rhyming words! Remember, rhyming words sound the same at the end.\n\nLook at these word groups. Can you find which words rhyme with each other?\n\nGroup 1: cat, hat, dog, bat\nWhich words rhyme? Cat, hat, and bat all rhyme because they end with the 'at' sound!\n\nGroup 2: sun, run, tree, fun\nWhich words rhyme? Sun, run, and fun all rhyme because they end with the 'un' sound!\n\nTry this fun game: I'll say a word, and you think of a word that rhymes with it. Ready? What rhymes with 'bee'? (tree, see, me) What rhymes with 'ball'? (tall, wall, call)",
+          "bullets": [
+            "Look for words with the same ending sounds",
+            "Cat, hat, and bat all rhyme",
+            "Practice makes rhyming easier!"
+          ],
+          "activities": [
+            "Circle the rhyming words in each group",
+            "Think of words that rhyme with 'dog'"
+          ],
+          "callout": "The ending sounds are the key to rhyming!",
+          "figureCaption": "Colorful word bubbles showing rhyming word families"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Practice Section",
+          "title": "Understanding Our Dog Poem",
+          "body": "Let's look more closely at our 'Happy Little Dog' poem and understand what it tells us!\n\nThe poem says the dog 'loves to play.' What do you think this dog does when he plays? Maybe he runs, jumps, or chases a ball!\n\nThe poem tells us he 'runs around outside all day.' Can you imagine this happy dog spending the whole day in the sunshine, running in the grass?\n\nHis 'tail wags fast' and his 'eyes are bright.' When dogs are happy, their tails move quickly back and forth. Their eyes look shiny and full of life!\n\nThe best part is that 'He makes me smile with pure delight.' This means the dog brings so much joy that just watching him makes the person feel happy and want to smile!",
+          "bullets": [
+            "The dog loves to play and run outside",
+            "His tail wags fast when he's happy",
+            "He makes people smile and feel joyful"
+          ],
+          "activities": [
+            "Act out how a happy dog moves and plays"
+          ],
+          "callout": "Happy dogs make happy people!",
+          "figureCaption": "A child laughing and playing with a bouncing, tail-wagging dog"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Review Section",
+          "title": "What We Learned About Poems",
+          "body": "Wow! Look how much we learned about poems today! Let's remember all the important things we discovered.\n\nWe learned that poems are special words that sound musical and fun. They're like songs without music! We can read them with expression, using our voices to show different feelings.\n\nWe discovered rhyming words - words that sound the same at the end. In our dog poem, 'play' rhymes with 'day,' and 'bright' rhymes with 'delight.' Rhyming makes poems fun to say and easy to remember.\n\nWe also learned that poems can show feelings. Our happy dog poem made us feel joyful and want to smile. Other poems might make us feel calm, sleepy, or excited.\n\nRemember, poems are everywhere! You might hear them in songs, bedtime stories, or playground games. Keep listening for rhyming words and reading with expression!",
+          "bullets": [
+            "Poems are musical words",
+            "Rhyming words sound the same at the end",
+            "Poems show different feelings"
+          ],
+          "activities": [
+            "Share your favorite rhyming words with a friend"
+          ],
+          "callout": "You're becoming a poetry expert!",
+          "figureCaption": "Children holding hands and reciting poems together in a happy circle"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Closing Spread",
+          "title": "Keep Exploring Poems!",
+          "body": "Congratulations! You've taken your first steps into the wonderful world of poetry. You can find rhyming words, read with expression, and understand how poems make us feel.\n\nNow it's time to keep exploring! Ask your family to share poems they know. Maybe they can teach you a nursery rhyme or sing you a song with rhyming words. You might discover that many of your favorite songs are actually poems!\n\nTry making up your own simple rhymes. Start with easy words like your name or things you see around you. Remember, poems don't have to be perfect - they just need to be fun!\n\nKeep listening for rhyming words everywhere you go. You might hear them in books, songs, or even when people talk. The more you practice, the better you'll become at recognizing rhymes and reading poems with beautiful expression. Happy poetry exploring!",
+          "bullets": [
+            "Ask family members to share poems with you",
+            "Try making up your own simple rhymes",
+            "Keep listening for rhyming words everywhere"
+          ],
+          "activities": [
+            "Create a simple two-line rhyme about something you love"
+          ],
+          "callout": "Poetry is all around us - keep exploring!",
+          "figureCaption": "A child with arms spread wide, surrounded by floating words and musical notes"
+        }
+      ],
+      "poemSummaries": [
+        "A happy little dog loves to play and run around outside every day. His tail wags fast and his eyes shine brightly. The dog brings so much joy and makes everyone smile when they see him playing."
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "simple poems",
+        "feelings in poetry"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

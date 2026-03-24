@@ -1,0 +1,314 @@
+{
+  "id": "2026-03-17T03-53-48-555Z-d1bfe4e9-89b7-438a-83e1-31d1d9195a4b",
+  "jobId": "d1bfe4e9-89b7-438a-83e1-31d1d9195a4b",
+  "title": "Fun with Animal Poems",
+  "grade": "1",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "Poem- 1:\nWrite a short, simple poem for young children using easy rhyming words about a friendly cat playing in the garden. The poem should have 6 lines and a cheerful tone.\nPoem -2:\nWrite a short, playful poem for early learners about a happy dog running in the park, using clear rhyming words and simple vocabulary. The poem should contain 6 lines and be easy to read aloud., Winter theme",
+  "createdAt": "2026-03-17T03:53:48.556Z",
+  "coverImage": "/generated-images/86959150-d44f-499e-bc76-513979588bab.png",
+  "lessons": [
+    {
+      "title": "Fun with Animal Poems",
+      "grade": "1",
+      "subject": "English",
+      "level": "basic",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Identify rhyming words in simple poems",
+        "Listen to and repeat short poems with expression",
+        "Recognize that poems can tell stories about animals"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "poem",
+          "definition": "a fun word song that tells a story"
+        },
+        {
+          "word": "garden",
+          "definition": "a place where flowers and plants grow"
+        },
+        {
+          "word": "park",
+          "definition": "a big outdoor place to play and run"
+        },
+        {
+          "word": "winter",
+          "definition": "the cold time of year when it snows"
+        },
+        {
+          "word": "expression",
+          "definition": "using your voice to make reading sound fun"
+        }
+      ],
+      "warmUp": "Let's clap and say animal sounds! I'll say an animal, you make its sound and clap twice. Cat! Dog! Cow! Bird! Now let's find words that sound the same - cat rhymes with hat!",
+      "mainExplanation": "Poems are fun word songs that tell stories! Some words in poems sound the same at the end - these are called rhyming words. Cat and hat rhyme because they both end with 'at' sound. Animal poems tell us stories about our favorite animals using rhyming words that make the poem sound musical and fun to say out loud.",
+      "workedExamples": [
+        "POEM 1 — Kitty in the Garden:\nA little cat plays in the sun\nRolling around and having fun\nChasing butterflies here and there\nWith flowers dancing in the air\nPouncing on leaves that blow around\nThe happiest kitty can be found",
+        "POEM 2 — Happy Puppy:\nA puppy runs across the park\nHe loves to play until it's dark\nHis tail wags fast, his tongue hangs out\nHe runs and jumps and runs about\nThrough winter snow he likes to bound\nThe happiest dog in all the town",
+        "POEM 3 — Winter Bunny:\nA bunny hops in winter white\nHis fur keeps him warm and bright\nHe finds some carrots in the snow\nAnd nibbles them before he'll go\nHopping home when day is done\nWinter bunny had such fun"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What word rhymes with 'cat'? Choose: dog, hat, fish",
+            "type": "multiple-choice",
+            "hint": "Think of something you wear on your head!"
+          },
+          {
+            "question": "Match the rhyming words: dog → (frog, bird, tree)",
+            "type": "matching",
+            "hint": "Both words end with the same sound!"
+          },
+          {
+            "question": "Fill in the blank: The bee likes to fly in the _____ (tree, car, book)",
+            "type": "fill-in-blank",
+            "hint": "Where do bees like to go in nature?"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this poem: 'The little mouse runs through the _____ (house, car)'",
+            "type": "fill-in-blank",
+            "hint": "What rhymes with 'mouse' and makes sense?"
+          },
+          {
+            "question": "Match these animal poem pairs: pig → (big, small), hen → (pen, fox)",
+            "type": "matching",
+            "hint": "Listen for the ending sounds that are the same!"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one pair of rhyming animal words like 'cat' and 'bat'",
+            "type": "short-answer",
+            "hint": "Think of two animals or an animal and another word that sound alike at the end!"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which word rhymes with cat?",
+          "options": [
+            "A) hat",
+            "B) dog",
+            "C) fish",
+            "D) run"
+          ],
+          "answer": "A",
+          "explanation": "Hat and cat both end with the same sound -at, so they rhyme."
+        },
+        {
+          "question": "Which word rhymes with bee?",
+          "options": [
+            "A) bear",
+            "B) tree",
+            "C) bird",
+            "D) fox"
+          ],
+          "answer": "B",
+          "explanation": "Bee and tree both end with the same sound -ee, so they rhyme."
+        },
+        {
+          "question": "What do we call words that sound the same at the end?",
+          "options": [
+            "A) big words",
+            "B) animal words",
+            "C) rhyming words",
+            "D) fun words"
+          ],
+          "answer": "C",
+          "explanation": "Words that sound the same at the end are called rhyming words."
+        },
+        {
+          "question": "Which word rhymes with frog?",
+          "options": [
+            "A) jump",
+            "B) green",
+            "C) dog",
+            "D) pond"
+          ],
+          "answer": "C",
+          "explanation": "Frog and dog both end with the same sound -og, so they rhyme."
+        },
+        {
+          "question": "What can poems tell us about?",
+          "options": [
+            "A) only colors",
+            "B) only numbers",
+            "C) animals and stories",
+            "D) only shapes"
+          ],
+          "answer": "C",
+          "explanation": "Poems can tell us stories about animals and many other things."
+        }
+      ],
+      "answerKey": "Easy: 1) hat, 2) frog, 3) tree. Medium: 1) house, 2) pig-big, hen-pen. Challenge: Sample answers include bee-tree, dog-frog, cat-bat, pig-big, hen-pen.",
+      "teacherNotes": "Have students clap along to the rhythm of each poem as you read it aloud. Encourage them to repeat the rhyming words and act out the animal movements. Use different voices for each animal to make it more engaging.",
+      "additionalResources": "Animal picture books, rhyming word flashcards, audio recordings of children's poems, animal sound recordings for warm-up activities",
+      "description": "Students explore fun animal poems about cats, dogs, and bunnies while learning to identify rhyming words. They practice reading poems aloud with expression and discover how poems tell stories about animals.",
+      "images": {
+        "cover": "/generated-images/86959150-d44f-499e-bc76-513979588bab.png",
+        "content": [],
+        "poems": [
+          "/generated-images/7b85218e-8959-48d2-bb56-11b8f0bab38a.png",
+          "/generated-images/9716ae03-0b1f-4a6f-87fa-da1a3f94bc72.png",
+          "/generated-images/d88f63b1-f3a4-412e-aa4f-143b5abc2a19.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Warm-up (5 min)**: Begin with animal sounds game - have students make sounds for cat, dog, cow, pig while you write the animal names on board. **Introduction (8 min)**: Explain that poems are like songs with words that sound alike at the end. Demonstrate with 'cat/hat', 'dog/log', 'bee/tree' - emphasize the ending sounds. Clap hands when saying rhyming pairs to help students hear the pattern. **Main Activity (15 min)**: Read aloud simple animal poem like 'I have a cat, who wears a hat. My cat is fat, and likes to chat.' Have students repeat each line after you with expression. Circle rhyming words on chart paper in different colors. Practice identifying which words rhyme by having students raise hands when they hear rhyming pairs. **Guided Practice (10 min)**: Show pictures of animals and objects, have students find rhyming pairs (cat/bat, frog/log, mouse/house). Use exaggerated pronunciation to help students hear ending sounds clearly. **Wrap-up (7 min)**: Recite learned poem together with actions and expression. Ask students to share one rhyming pair they remember. Preview that tomorrow they'll create their own animal rhymes.",
+        "teacherNotes": "Use exaggerated facial expressions and hand gestures when reading poems aloud to model expression and keep students engaged. Students often confuse rhyming with words that start the same (cat/car) - emphasize listening to ending sounds by stretching out word endings. Some students may struggle with hearing rhymes - use visual cues like pointing to mouth position and provide extra practice with obvious rhymes like cat/hat before moving to harder ones. Keep poems very short (2-4 lines) as Grade 1 attention spans are limited. Have students stand and move during poem recitation to maintain engagement and help kinesthetic learners."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to Animal Poems!",
+          "body": "Have you ever heard a poem before? Poems are like fun word songs that tell us stories! Today we're going to read poems about animals we love - cats, dogs, and bunnies. These poems use special words called rhyming words. Rhyming words sound the same at the end, like cat and hat, or dog and frog. When we read poems out loud, they sound musical and fun because of these rhyming words. Animal poems help us imagine what our favorite pets and wild animals like to do every day. Some poems tell us about cats playing in gardens, dogs running in parks, or bunnies hopping in the snow.",
+          "bullets": [
+            "Poems are fun word songs",
+            "Rhyming words sound the same at the end",
+            "Animal poems tell stories about pets and wild animals"
+          ],
+          "activities": [
+            "Listen for words that sound the same when your teacher reads"
+          ],
+          "callout": "Cat rhymes with hat because they both end with the 'at' sound!",
+          "figureCaption": "A happy cat playing in a colorful garden with butterflies"
+        },
+        {
+          "pageNumber": 2,
+          "section": "First Animal Poem",
+          "title": "Kitty in the Garden",
+          "body": "Let's read our first animal poem together! This poem is about a little cat who loves to play outside. Listen carefully for the rhyming words as we read. Can you hear how some words at the end of the lines sound the same?\n\nA little cat plays in the sun\nRolling around and having fun\nChasing butterflies here and there\nWith flowers dancing in the air\nPouncing on leaves that blow around\nThe happiest kitty can be found\n\nThis poem tells us about a cat who is very happy playing in a garden. The cat rolls in the warm sunshine and chases pretty butterflies. She watches flowers move in the breeze and jumps on leaves that fall down. This little kitty is having the best day ever!",
+          "bullets": [
+            "Sun rhymes with fun",
+            "There rhymes with air",
+            "Around rhymes with found"
+          ],
+          "activities": [
+            "Clap your hands to the beat of the poem",
+            "Act like a cat playing in a garden"
+          ],
+          "callout": "The cat in this poem is the happiest kitty that can be found!",
+          "figureCaption": "A striped cat rolling and playing among colorful flowers and butterflies"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Second Animal Poem",
+          "title": "Happy Puppy",
+          "body": "Now let's read about a very playful puppy! This dog loves to run and play all day long. Listen for the rhyming words in this poem too.\n\nA puppy runs across the park\nHe loves to play until it's dark\nHis tail wags fast, his tongue hangs out\nHe runs and jumps and runs about\nThrough winter snow he likes to bound\nThe happiest dog in all the town\n\nWhat a playful puppy! This dog runs all around the park and plays until nighttime. His tail moves back and forth because he's so excited. His tongue hangs out when he runs because he's working hard and having fun. Even when there's snow on the ground in winter, this puppy still loves to jump and play. He's the happiest dog anywhere!",
+          "bullets": [
+            "Park rhymes with dark",
+            "Out rhymes with about",
+            "Bound rhymes with town"
+          ],
+          "activities": [
+            "Pretend to be a happy puppy running and playing",
+            "Wag your arms like a dog's tail"
+          ],
+          "callout": "This puppy is so happy that he plays even in the winter snow!",
+          "figureCaption": "A golden puppy running through a park with his tongue hanging out happily"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Third Animal Poem",
+          "title": "Winter Bunny",
+          "body": "Our last poem is about a cute bunny who plays in the winter! Let's see what this little bunny likes to do when it's cold and snowy outside.\n\nA bunny hops in winter white\nHis fur keeps him warm and bright\nHe finds some carrots in the snow\nAnd nibbles them before he'll go\nHopping home when day is done\nWinter bunny had such fun\n\nThis sweet bunny has white fur that keeps him warm when it's cold outside. He hops around looking for orange carrots hidden in the white snow. After he finds his yummy snack and eats it up, he hops back home to his family. Even though it's winter and cold, this little bunny had a wonderful day playing outside!",
+          "bullets": [
+            "White rhymes with bright",
+            "Snow rhymes with go",
+            "Done rhymes with fun"
+          ],
+          "activities": [
+            "Hop like a bunny around the room",
+            "Pretend to find and nibble carrots in the snow"
+          ],
+          "callout": "The bunny's white fur helps him stay warm in the cold winter!",
+          "figureCaption": "A fluffy white bunny hopping through snow with orange carrots nearby"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Understanding Our Poems",
+          "title": "What Do These Poems Tell Us?",
+          "body": "All three of our animal poems tell us happy stories! The cat poem shows us a kitty who loves playing in a garden with flowers and butterflies. The dog poem tells us about a puppy who runs and plays in the park all day long. The bunny poem is about a little rabbit who has fun even when it's cold and snowy outside. Each animal in our poems is very happy and loves to play. They all enjoy being outside in nature - the cat in the garden, the dog in the park, and the bunny in the snow. These poems help us imagine what it would be like to be these happy animals. They also teach us that playing outside can be fun in any season, whether it's sunny, snowy, or just a nice day at the park.",
+          "bullets": [
+            "Each poem tells about a happy animal",
+            "All the animals love to play outside",
+            "Animals can have fun in different places and seasons"
+          ],
+          "activities": [
+            "Tell about your favorite animal from the poems",
+            "Share what you like to do outside for fun"
+          ],
+          "callout": "Animals can be happy and playful just like children!",
+          "figureCaption": "The cat, dog, and bunny all playing happily in their favorite places"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Finding Rhyming Words",
+          "title": "Let's Find More Rhymes!",
+          "body": "Now that we've read all three animal poems, let's practice finding rhyming words! Remember, rhyming words are words that sound the same at the end. In our cat poem, we heard sun and fun - they both end with the 'un' sound. In our dog poem, we heard park and dark - they both end with the 'ark' sound. In our bunny poem, we heard white and bright - they both end with the 'ight' sound. Can you think of other words that rhyme with these? Hat rhymes with cat, bee rhymes with tree, and frog rhymes with dog! When we say poems out loud, the rhyming words make them sound like music. That's why poems are so fun to read and listen to. The rhyming words help us remember the poems better too.",
+          "bullets": [
+            "Sun and fun both end with 'un'",
+            "Park and dark both end with 'ark'",
+            "White and bright both end with 'ight'"
+          ],
+          "activities": [
+            "Find rhyming words in each poem",
+            "Think of new words that rhyme with cat, dog, and hop"
+          ],
+          "callout": "Rhyming words make poems sound like music!",
+          "figureCaption": "Word pairs showing cat/hat, bee/tree, and dog/frog with connecting lines"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Reading with Expression",
+          "title": "Making Poems Come Alive!",
+          "body": "When we read poems out loud, we can use our voices to make them sound exciting and fun! This is called reading with expression. When we read about the happy cat, we can make our voice sound playful and light. When we read about the energetic puppy, we can make our voice sound excited and bouncy. When we read about the gentle bunny, we can make our voice sound soft and sweet. We can also use our bodies to help tell the story! We can roll around like the cat, run in place like the dog, or hop like the bunny. Reading poems with expression and actions helps us understand the story better and makes it more fun for everyone listening. Try reading the poems again and use different voices for each animal!",
+          "bullets": [
+            "Use a playful voice for the cat poem",
+            "Use an excited voice for the dog poem",
+            "Use a gentle voice for the bunny poem"
+          ],
+          "activities": [
+            "Read each poem with a different voice",
+            "Act out the movements of each animal while reading"
+          ],
+          "callout": "Using different voices makes poems more fun to hear!",
+          "figureCaption": "Children acting out the three animals while reading poems aloud"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Review and Celebration",
+          "title": "You're a Poetry Expert!",
+          "body": "Congratulations! You've learned so much about animal poems today. You can find rhyming words like sun and fun, park and dark, and white and bright. You know that poems are fun word songs that tell stories about animals and other things we love. You've practiced reading poems with expression, using different voices and actions to bring the stories to life. You've met three happy animals - a playful cat in a garden, an energetic puppy in a park, and a gentle bunny in the snow. Each animal showed us how much fun it is to play outside in different places and seasons. Now you can listen for rhyming words in other poems and stories. You can also try making up your own simple poems about your favorite animals! Remember, poems are everywhere - in books, songs, and even games. Keep listening for those special rhyming words that make language sound like music.",
+          "bullets": [
+            "You can find rhyming words in poems",
+            "You can read poems with expression",
+            "You know poems tell stories about animals and other things"
+          ],
+          "activities": [
+            "Share your favorite poem from today",
+            "Try making up a simple rhyme about your pet or favorite animal"
+          ],
+          "callout": "You're ready to explore more poems and find rhyming words everywhere!",
+          "figureCaption": "Happy children holding books of animal poems and celebrating their learning"
+        }
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "animal poems",
+        "reading aloud"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

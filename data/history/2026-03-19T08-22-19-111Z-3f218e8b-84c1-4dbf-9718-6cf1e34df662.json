@@ -1,0 +1,307 @@
+{
+  "id": "2026-03-19T08-22-19-111Z-3f218e8b-84c1-4dbf-9718-6cf1e34df662",
+  "jobId": "3f218e8b-84c1-4dbf-9718-6cf1e34df662",
+  "title": "Fun with Rhyming Words",
+  "grade": "prek",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "",
+  "createdAt": "2026-03-19T08:22:19.111Z",
+  "coverImage": "/generated-images/e960e55b-3b10-42a5-bc50-29f862fb6c11.png",
+  "lessons": [
+    {
+      "title": "Fun with Rhyming Words",
+      "grade": "prek",
+      "subject": "English",
+      "level": "basic",
+      "duration": "30 minutes",
+      "learningObjectives": [
+        "Identify rhyming words in simple poems",
+        "Clap along to the rhythm of short poems",
+        "Say simple rhyming words out loud"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "rhythm",
+          "definition": "the beat you can clap to in a poem"
+        },
+        {
+          "word": "poem",
+          "definition": "special words that rhyme and have a beat"
+        },
+        {
+          "word": "clap",
+          "definition": "to hit your hands together to make sound"
+        },
+        {
+          "word": "beat",
+          "definition": "the rhythm you can feel in music or poems"
+        },
+        {
+          "word": "sound",
+          "definition": "what you hear with your ears"
+        }
+      ],
+      "warmUp": "Let's clap and say silly rhyming words together! Cat-hat, dog-frog, bee-tree! Now you try some with me. Clap once for each word we say!",
+      "mainExplanation": "Rhyming words sound the same at the end, like cat and hat! When we read poems, we can clap to the beat and listen for words that rhyme. It makes reading fun and musical!",
+      "workedExamples": [
+        "POEM 1 — My Little Cat:\nMy little cat likes to play\nShe runs around all day\nShe jumps up high\nUp to the sky\nThen takes a nap in the hay"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What animal is in the poem? My little ___ likes to play",
+            "type": "fill-in-blank",
+            "hint": "It's a furry pet that says meow"
+          },
+          {
+            "question": "Match the words that sound the same: play goes with ___",
+            "type": "matching",
+            "hint": "Listen for words that rhyme with play"
+          },
+          {
+            "question": "What does the cat do all day? She ___ around",
+            "type": "fill-in-blank",
+            "hint": "The cat moves fast around the yard"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this line from the poem: She jumps up high, up to the ___",
+            "type": "fill-in-blank",
+            "hint": "Look up! What's blue and has clouds?"
+          },
+          {
+            "question": "Match the rhyming words from the poem: high matches with ___",
+            "type": "matching",
+            "hint": "What word sounds like high in the poem?"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write 1 sentence about what the little cat does in the poem",
+            "type": "fill-in-blank",
+            "hint": "Think about all the things the cat does - playing, running, jumping, and sleeping"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does the little cat like to do?",
+          "options": [
+            "A) play",
+            "B) eat",
+            "C) sleep",
+            "D) sing"
+          ],
+          "answer": "A",
+          "explanation": "The poem says 'My little cat likes to play'"
+        },
+        {
+          "question": "How does the cat move around?",
+          "options": [
+            "A) walks",
+            "B) runs",
+            "C) crawls",
+            "D) flies"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'She runs around all day'"
+        },
+        {
+          "question": "What does the cat jump up to?",
+          "options": [
+            "A) tree",
+            "B) house",
+            "C) sky",
+            "D) fence"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'She jumps up high / Up to the sky'"
+        },
+        {
+          "question": "Where does the cat take a nap?",
+          "options": [
+            "A) bed",
+            "B) chair",
+            "C) hay",
+            "D) grass"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'Then takes a nap in the hay'"
+        },
+        {
+          "question": "What does the cat do all day?",
+          "options": [
+            "A) sleep",
+            "B) eat",
+            "C) run around",
+            "D) hide"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'She runs around all day'"
+        }
+      ],
+      "answerKey": "1. A) play - The cat likes to play\n2. B) runs - She runs around all day\n3. C) sky - She jumps up to the sky\n4. C) hay - She naps in the hay\n5. C) run around - She runs around all day",
+      "teacherNotes": "Read each poem slowly and have children clap along to the rhythm. Point out the rhyming words like 'play/day' and 'high/sky' by saying them extra loud together. Encourage children to repeat the rhyming pairs after you.",
+      "additionalResources": "Picture cards of rhyming pairs, simple musical instruments for rhythm activities, action cards for movement games",
+      "description": "Little ones will discover rhyming words and rhythm through fun, simple poems and activities. Children learn to identify words that sound the same and clap along to poem beats.",
+      "images": {
+        "cover": "/generated-images/e960e55b-3b10-42a5-bc50-29f862fb6c11.png",
+        "content": [],
+        "poems": [
+          "/generated-images/4d7e55bc-c6ce-42f5-bb69-775ffdf8ab69.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Opening Circle Time (5 minutes)** - Gather children in a circle on the carpet. Introduce today's topic: 'Today we're going to play with words that sound the same at the end - these are called rhyming words!' Demonstrate with simple examples: 'Cat rhymes with hat! Listen: cat... hat. Do you hear how they sound the same at the end?' **Introduction to Rhyming (8 minutes)** - Show picture cards of rhyming pairs (cat/hat, dog/log, sun/run). Hold up each pair and say the words clearly. Ask children to repeat after you. 'Let's say these together: cat... hat!' Emphasize the ending sounds. Use exaggerated pronunciation to help children hear the rhymes. **Simple Poem with Clapping (10 minutes)** - Teach a simple 4-line rhyming poem: 'The cat sat on a mat, wearing a funny hat. The dog ran in the sun, having lots of fun!' Read it slowly first, then add clapping to the beat. Demonstrate clapping on each syllable. Have children join in clapping while you recite. Repeat 2-3 times until children are comfortable. **Interactive Rhyming Game (8 minutes)** - Play 'Finish the Rhyme': Start with 'I see a cat sitting on a ___' (pause for children to say 'mat' or 'hat'). Use familiar word families: 'The sun is bright and full of ___' (fun), 'I have a pet dog who likes to ___' (jog/log). Celebrate all attempts and gently guide toward correct rhymes. **Practice with Actions (7 minutes)** - Add simple actions to rhyming words: stomp feet for 'cat/hat,' jump for 'hop/stop,' clap for 'run/fun.' Say the rhyming pairs while doing actions. This helps kinesthetic learners connect with the concept. Let children suggest their own actions for different rhyme pairs. **Closing Activity (7 minutes)** - Sing a simple rhyming song like 'Twinkle, Twinkle, Little Star' and clap along. Ask children to listen for the rhyming words (star/are, high/sky). End with children sharing one rhyming pair they remember from today's lesson. Give each child a sticker or stamp for participation.",
+        "teacherNotes": "Keep rhyming words very simple and use only familiar vocabulary that children already know - avoid introducing new vocabulary while teaching rhyming concepts. Some children may struggle to hear the difference between rhyming and non-rhyming words initially, so use very obvious examples like cat/hat rather than subtle rhymes. Watch for children who focus on the beginning sounds instead of ending sounds - gently redirect by emphasizing 'listen to how the END of the word sounds.' Use visual cues like picture cards consistently, as many prekindergarten students are still developing auditory processing skills. Be patient with clapping to rhythm - some children may clap too fast or off-beat, which is developmentally normal at this age."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to Rhyming Fun!",
+          "body": "Hello, little readers! Today we're going to learn about something very special - rhyming words! Rhyming words are words that sound the same at the end. They make poems sound musical and fun to say.\n\nLet's start with some easy rhymes. Listen carefully: Cat rhymes with hat! Dog rhymes with frog! Sun rhymes with fun! Can you hear how the endings sound the same? That's what makes them rhyme!\n\nWhen we read poems together, we can clap our hands to the beat. This is called rhythm. It makes reading feel like music and helps us remember the words better.",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "We can clap to the rhythm of poems",
+            "Rhymes make reading fun and musical"
+          ],
+          "activities": [
+            "Try saying these rhyming pairs: bee-tree, run-sun, hat-cat"
+          ],
+          "callout": "Rhyming words are like word friends - they sound alike!",
+          "figureCaption": "A happy cat wearing a colorful hat"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Learning About Rhymes",
+          "title": "What Are Rhyming Words?",
+          "body": "Rhyming words are special word friends that sound the same at the end. When we say 'cat' and 'hat', do you hear how they both end with the same sound? That 'at' sound makes them rhyme!\n\nLet's practice with more rhyming friends. Ball rhymes with tall. Fish rhymes with dish. Bed rhymes with red. Can you think of more words that rhyme with these?\n\nSometimes rhyming words tell a story. We might read about a dog that likes to jog, or a bee that sits in a tree. These rhyming words help us remember the story better because they sound so nice together.",
+          "bullets": [
+            "Cat and hat both end with 'at'",
+            "Ball and tall both end with 'all'",
+            "Rhyming words help us remember stories"
+          ],
+          "activities": [
+            "Clap your hands and say: dog-frog, bee-tree, sun-fun"
+          ],
+          "callout": "Listen for the ending sounds - that's where the rhyme lives!",
+          "figureCaption": "A friendly dog jumping over a log"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Our First Poem",
+          "title": "Meet the Little Cat",
+          "body": "Now let's read our first poem together! This poem is about a playful little cat who loves to have fun. As we read, listen for the rhyming words and clap along to the beat.\n\nMy little cat likes to play\nShe runs around all day\nShe jumps up high\nUp to the sky\nThen takes a nap in the hay\n\nDid you hear the rhyming words? 'Play' and 'day' rhyme because they both end with the 'ay' sound. 'High' and 'sky' rhyme because they both end with the 'y' sound. These rhymes make the poem fun to say!",
+          "bullets": [
+            "Play and day rhyme",
+            "High and sky rhyme",
+            "The cat is very active and playful"
+          ],
+          "activities": [
+            "Read the poem aloud and clap on each word"
+          ],
+          "callout": "Can you find the two sets of rhyming words in this poem?",
+          "figureCaption": "A little cat jumping high toward the sky"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Understanding the Story",
+          "title": "What Does the Cat Do?",
+          "body": "Let's talk about what happens in our cat poem. The little cat is very busy! First, she likes to play. Playing is fun - maybe she chases a ball or plays with a toy mouse.\n\nNext, she runs around all day. Can you run like a cat? Cats are very fast and love to run and explore. They run on their soft paws and can move very quickly.\n\nThen she jumps up high, up to the sky! Well, she doesn't really reach the sky, but she jumps so high it looks like she might! Cats are amazing jumpers. After all that playing and running and jumping, the little cat gets tired. So she takes a cozy nap in the hay. Hay is soft dried grass that makes a perfect bed for a sleepy cat.",
+          "bullets": [
+            "The cat loves to play",
+            "She runs around all day long",
+            "She jumps very high",
+            "She sleeps in soft hay"
+          ],
+          "activities": [
+            "Act out what the cat does - play, run, jump, and rest"
+          ],
+          "callout": "After lots of playing, everyone needs a good nap!",
+          "figureCaption": "A sleepy cat curled up in a pile of golden hay"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Clapping and Rhythm",
+          "title": "Let's Clap Along!",
+          "body": "Poems have a special beat called rhythm. We can feel this beat by clapping our hands as we say the words. Let's try it with our cat poem!\n\nClap once for each word: 'My (clap) lit-tle (clap) cat (clap) likes (clap) to (clap) play (clap).' Did you feel the rhythm? It's like the poem is dancing!\n\nNow let's try the whole poem with clapping. Don't worry if you don't clap on every single word perfectly. The most important thing is to feel the beat and have fun with it. Rhythm makes poems exciting and helps us remember them better.",
+          "bullets": [
+            "Clap once for each word",
+            "Feel the beat of the poem",
+            "Rhythm makes poems fun to remember"
+          ],
+          "activities": [
+            "Practice clapping while saying simple rhyming words"
+          ],
+          "callout": "Rhythm is the heartbeat of a poem!",
+          "figureCaption": "Happy children clapping their hands together"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Practice Time",
+          "title": "Find the Rhyming Words",
+          "body": "Now it's time to practice finding rhyming words! Look at our cat poem again. We know that 'play' and 'day' rhyme, and 'high' and 'sky' rhyme. But can you find them in the poem?\n\nLet's play a fun game. I'll say a word from the poem, and you try to find its rhyming partner. If I say 'play,' what word rhymes with it? That's right - 'day'! If I say 'high,' what rhymes with it? Yes - 'sky'!\n\nYou can also make up your own rhyming words. What rhymes with 'cat'? Hat! Bat! Mat! Rat! There are lots of words that rhyme with cat. What rhymes with 'run'? Fun! Sun! Bun! Gun! Making rhymes is like playing with words.",
+          "bullets": [
+            "Play rhymes with day",
+            "High rhymes with sky",
+            "Cat can rhyme with hat, mat, bat"
+          ],
+          "activities": [
+            "Take turns saying words and finding their rhymes"
+          ],
+          "callout": "Making your own rhymes is super fun - try it!",
+          "figureCaption": "Word bubbles showing rhyming pairs floating around"
+        },
+        {
+          "pageNumber": 7,
+          "section": "More Rhyming Fun",
+          "title": "Create Your Own Rhymes",
+          "body": "Now that you know about rhyming words, let's create some new ones! We can make up silly sentences using rhyming words. How about: 'The big pig wore a funny wig!' Big, pig, and wig all rhyme!\n\nOr try this one: 'The red hen lives in a cozy den.' Red, hen, and den are rhyming friends! You can make up your own rhyming sentences about animals, toys, or anything you like.\n\nRemember, rhyming words don't have to make perfect sense. Sometimes the silliest rhymes are the most fun! You might say 'The blue shoe likes to moo!' That's silly because shoes don't moo like cows, but it rhymes and makes us laugh!",
+          "bullets": [
+            "Big, pig, wig all rhyme",
+            "Red, hen, den sound alike",
+            "Silly rhymes can be the most fun"
+          ],
+          "activities": [
+            "Make up your own silly rhyming sentence"
+          ],
+          "callout": "The sillier the rhyme, the more fun it is!",
+          "figureCaption": "A pig wearing a curly wig and dancing"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Wrap-Up",
+          "title": "You're a Rhyming Star!",
+          "body": "Congratulations! You've learned all about rhyming words and rhythm. You can find rhyming words in poems, clap along to the beat, and even make up your own rhymes. That makes you a rhyming star!\n\nRemember our little cat who likes to play? She taught us that poems can tell stories and that rhyming words make those stories more fun to read and remember. Every time you hear words that sound the same at the end, you'll know they're rhyming!\n\nKeep practicing with rhymes every day. You can find them in songs, books, and even make them up while you play. Rhyming words are everywhere once you start listening for them. Great job learning about the wonderful world of rhymes!",
+          "bullets": [
+            "You can find rhyming words in poems",
+            "You can clap to the rhythm",
+            "You can make up your own rhymes"
+          ],
+          "activities": [
+            "Share your favorite rhyming words with a friend"
+          ],
+          "callout": "You're officially a rhyming word expert now!",
+          "figureCaption": "Children celebrating with books and rhyming word cards"
+        }
+      ],
+      "poemSummaries": [
+        "A playful little cat spends her whole day running and jumping around. She leaps so high it seems like she could touch the sky. After all that playing, she gets tired and takes a cozy nap in some soft hay."
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "rhythm",
+        "simple poems"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,321 @@
+{
+  "id": "2026-03-17T06-36-09-723Z-3da2d928-b463-4849-babf-d9341eebacc9",
+  "jobId": "3da2d928-b463-4849-babf-d9341eebacc9",
+  "title": "Fun with Rhyming Poems",
+  "grade": "prek",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "Write a short, simple poem for young children using easy rhyming words about a friendly cat playing in the garden. The poem should have 6 lines and a cheerful tone.",
+  "createdAt": "2026-03-17T06:36:09.724Z",
+  "coverImage": null,
+  "lessons": [
+    {
+      "title": "Fun with Rhyming Poems",
+      "grade": "PreK",
+      "subject": "English",
+      "level": "basic",
+      "duration": "30 minutes",
+      "learningObjectives": [
+        "Identify rhyming words in simple poems",
+        "Listen to and enjoy poetry",
+        "Recognize that poems can tell stories"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "poem",
+          "definition": "special words that tell a story with music"
+        },
+        {
+          "word": "garden",
+          "definition": "a place where flowers and plants grow"
+        },
+        {
+          "word": "butterfly",
+          "definition": "a pretty flying bug with colorful wings"
+        },
+        {
+          "word": "purr",
+          "definition": "the happy sound a cat makes"
+        },
+        {
+          "word": "pounce",
+          "definition": "to jump on something quickly"
+        }
+      ],
+      "warmUp": "Let's clap and say words that rhyme! Cat-hat-mat! Dog-log-frog! Garden-pardon! When I say a word, you say one that rhymes back to me. Ready to play the rhyming game?",
+      "mainExplanation": "Poems are special word pictures that sound musical! They tell stories about people, animals, and places. When words rhyme, they sound the same at the end, like cat and hat. Poems about friendly animals make us smile and feel happy inside.",
+      "workedExamples": [
+        "POEM 1 — Fluffy's Garden Day:\nFluffy cat loves to play\nIn the garden every day\nChasing butterflies so bright\nRolling in the morning light\nPurring soft and feeling free\nHappy as a cat can be",
+        "POEM 2 — Sunny Garden Fun:\nLittle cat runs here and there\nSunshine dancing in her hair\nFlowers smell so sweet and nice\nPouncing on the garden mice\nSoft green grass beneath her paws\nPlaying till the day is done"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What is the cat's name in the first poem? _____",
+            "type": "fill-in-blank",
+            "hint": "Look at the first line of the poem"
+          },
+          {
+            "question": "Match the words that rhyme: day - play, bright - light, free - be",
+            "type": "matching",
+            "hint": "Find words that sound the same at the end"
+          },
+          {
+            "question": "What does Fluffy chase in the garden? _____",
+            "type": "fill-in-blank",
+            "hint": "They are colorful and fly"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this line from the poem: 'Purring soft and feeling _____'",
+            "type": "fill-in-blank",
+            "hint": "Think about how happy cats feel"
+          },
+          {
+            "question": "Match the actions with what the cats do: pouncing - garden mice, chasing - butterflies, rolling - morning light",
+            "type": "matching",
+            "hint": "What does each cat do in the poems?"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one sentence about what Fluffy does in the garden.",
+            "type": "fill-in-blank",
+            "hint": "Think about all the fun things Fluffy does outside"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What is the cat's name in the first poem?",
+          "options": [
+            "A) Fluffy",
+            "B) Sunny",
+            "C) Lucky",
+            "D) Mittens"
+          ],
+          "answer": "A",
+          "explanation": "The first poem is about 'Fluffy cat' who loves to play in the garden."
+        },
+        {
+          "question": "Where does Fluffy like to play?",
+          "options": [
+            "A) house",
+            "B) garden",
+            "C) park",
+            "D) tree"
+          ],
+          "answer": "B",
+          "explanation": "Fluffy cat loves to play 'in the garden every day.'"
+        },
+        {
+          "question": "What does Fluffy chase in the garden?",
+          "options": [
+            "A) mice",
+            "B) dogs",
+            "C) butterflies",
+            "D) birds"
+          ],
+          "answer": "C",
+          "explanation": "Fluffy is 'chasing butterflies so bright' in the garden."
+        },
+        {
+          "question": "What sound does the cat make when happy?",
+          "options": [
+            "A) meow",
+            "B) purr",
+            "C) bark",
+            "D) chirp"
+          ],
+          "answer": "B",
+          "explanation": "The poem says the cat is 'purring soft and feeling free.'"
+        },
+        {
+          "question": "What does the little cat pounce on?",
+          "options": [
+            "A) flowers",
+            "B) grass",
+            "C) mice",
+            "D) sunshine"
+          ],
+          "answer": "C",
+          "explanation": "In the second poem, the cat is 'pouncing on the garden mice.'"
+        }
+      ],
+      "answerKey": "1-A (Fluffy), 2-B (garden), 3-C (butterflies), 4-B (purr), 5-C (mice)",
+      "teacherNotes": "Read each poem slowly and have children clap along with the rhythm. Repeat the rhyming words together and ask children to point out which words sound alike. Use actions like pretending to chase butterflies or roll in grass.",
+      "additionalResources": "Picture books with simple rhyming poems, audio recordings of children's poetry, rhyming word cards for practice",
+      "description": "Children will listen to fun poems about a friendly cat and learn about rhyming words. They will practice finding words that sound the same at the end.",
+      "images": {
+        "cover": null,
+        "content": [],
+        "poems": [
+          null,
+          null
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Fun with Rhyming Poems Lesson Guide (30 minutes)**\n\n**Opening Circle Time (5 minutes)**\nGather students in a circle on the carpet. Show enthusiasm and speak in a sing-song voice: 'Today we're going to listen to special word pictures called poems! They sound like music and tell stories about friendly animals.' Clap hands rhythmically while saying this to build excitement.\n\n**Introduction to Rhyming (8 minutes)**\nExplain: 'Words that rhyme sound the same at the end. Let me show you!' Say 'cat' and 'hat' slowly, emphasizing the '-at' sound. Have children repeat after you. Try more pairs: 'dog/frog', 'bee/tree', 'pig/big'. Ask children to clap when they hear words that sound the same at the end. Practice with 3-4 word pairs, having students echo the rhyming sounds.\n\n**First Poem Reading (7 minutes)**\nRead a simple animal poem with clear rhymes (like 'Hickory Dickory Dock' or 'Baa Baa Black Sheep'). Read slowly and expressively, pausing at rhyming words. Ask: 'Did you hear words that sounded the same?' Point out the rhyming pairs. Read the poem again, having children raise their hands when they hear rhyming words.\n\n**Interactive Rhyme Game (5 minutes)**\nSay: 'I'll say a word about an animal, you help me find a word that rhymes!' Start with simple pairs: 'I see a cat wearing a ___' (hat), 'A little mouse lives in a ___' (house). Celebrate all attempts, even if not perfect rhymes. Use gestures and animal sounds to make it engaging.\n\n**Second Poem and Movement (3 minutes)**\nRead another short animal poem with actions (like 'If You're Happy and You Know It' with animal variations). Have children act out the animals while listening to the rhymes. This combines physical movement with listening skills.\n\n**Closing Discussion (2 minutes)**\nSit back in circle. Ask: 'What made the poems sound special?' 'Which animals did we hear about?' 'What words sounded the same?' Praise their listening and participation. End by saying: 'Poems are word pictures that make us feel happy!'",
+        "teacherNotes": "**Practical Teaching Tips:**\n• Use exaggerated facial expressions and hand gestures when emphasizing rhyming sounds - prekindergartners respond well to visual and physical cues\n• If children suggest words that don't quite rhyme, praise the attempt and gently model the correct rhyme: 'Good try! Dog and log sound similar at the end'\n• Keep poems very short (4-8 lines) as attention spans are limited - repeat poems multiple times rather than introducing too many new ones\n• Have children sit close together on the carpet to maintain engagement and make it easier to hear responses\n• Some students may focus more on the animal content than the rhyming - this is developmentally appropriate, so celebrate both observations\n\n**Common Student Responses to Expect:**\n• Children may identify any similar-sounding words as rhymes (like 'cat' and 'car') - acknowledge their listening effort while modeling the correct rhyme\n• Some students may get excited about the animals and want to share personal pet stories - briefly acknowledge then redirect to the rhyming focus\n• A few children may not respond verbally but will show engagement through body language, clapping, or smiling - this is perfectly normal participation for this age"
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to Poetry Time!",
+          "body": "Look at this big, colorful book! Today we're going to read special words called poems. Poems are like word pictures that sound like music. They tell us stories about animals, people, and fun places.\n\nSee the friendly cat on this page? Her name is Fluffy, and she loves to play in her beautiful garden. When we read poems about Fluffy, we'll hear words that sound the same at the end. These are called rhyming words!\n\nGet ready to listen carefully and clap your hands. We're going to have so much fun with our rhyming poems!",
+          "bullets": [
+            "Poems are special word pictures",
+            "They sound like music",
+            "Some words rhyme - they sound the same at the end"
+          ],
+          "activities": [
+            "Point to Fluffy in the picture and say her name"
+          ],
+          "callout": "Let's clap and say: Cat-Hat-Mat!",
+          "figureCaption": "Fluffy the cat playing happily in her sunny garden"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Learning About Rhyming",
+          "title": "What Are Rhyming Words?",
+          "body": "Rhyming words are words that sound the same at the end. Listen carefully: CAT and HAT both end with the same sound - 'at'! When you say them together, they sound like music.\n\nLet's try more rhyming words together. Can you hear how these words sound the same at the end? DOG and LOG both end with 'og'. BEE and TREE both end with 'ee'. When we find words that rhyme, we can clap our hands!\n\nIn our poems today, we'll find lots of rhyming words. Every time you hear words that sound the same at the end, you can point them out and clap!",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "Cat and hat rhyme",
+            "Dog and log rhyme",
+            "Bee and tree rhyme"
+          ],
+          "activities": [
+            "Clap when you hear rhyming words",
+            "Say cat-hat-mat with your teacher"
+          ],
+          "callout": "Listen for words that sound alike!",
+          "figureCaption": "Pictures showing cat/hat, dog/log, and bee/tree pairs"
+        },
+        {
+          "pageNumber": 3,
+          "section": "First Poem",
+          "title": "Fluffy's Garden Day",
+          "body": "Here is our first poem about Fluffy the cat. Listen carefully as your teacher reads each line. Can you hear the words that rhyme?\n\nFluffy cat loves to play\nIn the garden every day\nChasing butterflies so bright\nRolling in the morning light\nPurring soft and feeling free\nHappy as a cat can be\n\nDid you hear the rhyming words? 'Play' and 'day' sound the same at the end! 'Bright' and 'light' rhyme too! And 'free' and 'be' make another rhyming pair.",
+          "bullets": [
+            "Play and day rhyme",
+            "Bright and light rhyme",
+            "Free and be rhyme"
+          ],
+          "activities": [
+            "Clap when you hear rhyming words",
+            "Pretend to chase butterflies like Fluffy"
+          ],
+          "callout": "Fluffy is happy and free!",
+          "figureCaption": "Fluffy chasing colorful butterflies in a sunny garden"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Understanding the Story",
+          "title": "What Does Fluffy Do?",
+          "body": "Let's talk about what happens in our poem! Fluffy is a happy cat who loves spending time in her garden. Every single day, she goes outside to play and have fun.\n\nWhat does Fluffy do in the garden? She chases pretty butterflies that flutter around the flowers. She rolls around in the warm, bright morning sunshine. The soft grass feels good under her paws!\n\nWhen Fluffy is happy, she makes a special sound called purring. Cats purr when they feel safe and loved. Fluffy purrs because she feels free and joyful in her beautiful garden.",
+          "bullets": [
+            "Fluffy plays in the garden every day",
+            "She chases butterflies",
+            "She rolls in the sunshine",
+            "She purrs when she's happy"
+          ],
+          "activities": [
+            "Make a purring sound like Fluffy",
+            "Roll gently on the carpet like Fluffy"
+          ],
+          "callout": "Purring means a cat is happy!",
+          "figureCaption": "Happy Fluffy rolling in green grass under the morning sun"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Second Poem",
+          "title": "Sunny Garden Fun",
+          "body": "Now let's read another poem about a different cat having fun in the garden. Listen for the rhyming words in this poem too!\n\nLittle cat runs here and there\nSunshine dancing in her hair\nFlowers smell so sweet and nice\nPouncing on the garden mice\nSoft green grass beneath her paws\nPlaying till the day is done\n\nThis poem has rhyming words too! Can you find them? 'There' and 'hair' sound the same at the end. 'Nice' and 'mice' rhyme together. And 'paws' goes with... can you think of another word that sounds like 'paws'?",
+          "bullets": [
+            "There and hair rhyme",
+            "Nice and mice rhyme",
+            "The cat runs everywhere"
+          ],
+          "activities": [
+            "Run in place like the little cat",
+            "Sniff the air like you're smelling flowers"
+          ],
+          "callout": "Listen for the rhyming pairs!",
+          "figureCaption": "A playful cat running through flowers in a sunny garden"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Comparing Our Cats",
+          "title": "Two Cats, Two Gardens",
+          "body": "Now we've read about two different cats! Both cats love playing in gardens, but they do different things. Let's compare what each cat likes to do.\n\nFluffy likes to chase butterflies and roll in the morning light. She purrs when she feels happy and free. The other little cat runs around everywhere and pounces on tiny garden mice. Both cats love the soft green grass under their paws!\n\nBoth poems tell us that cats are happiest when they can play outside. Gardens are wonderful places for cats to explore, run, and have fun. The sunshine makes everything bright and cheerful!",
+          "bullets": [
+            "Both cats love gardens",
+            "Fluffy chases butterflies",
+            "The little cat pounces on mice",
+            "Both cats love soft grass"
+          ],
+          "activities": [
+            "Compare what each cat does",
+            "Act out chasing butterflies or pouncing"
+          ],
+          "callout": "Gardens make cats happy!",
+          "figureCaption": "Both cats playing happily in their garden homes"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Finding Rhymes",
+          "title": "Let's Find All the Rhymes!",
+          "body": "Now that we've read both poems, let's find all the rhyming words together! Remember, rhyming words sound the same at the end.\n\nFrom Fluffy's poem: play/day, bright/light, free/be. Can you say these pairs out loud? Listen to how they sound the same at the end!\n\nFrom the second poem: there/hair, nice/mice. These words rhyme too! When we put rhyming words in poems, they make the poems sound like songs.\n\nCan you think of other words that rhyme with 'cat'? How about 'hat', 'mat', or 'bat'? Rhyming is fun to do!",
+          "bullets": [
+            "Play and day rhyme",
+            "Bright and light rhyme",
+            "There and hair rhyme",
+            "Nice and mice rhyme"
+          ],
+          "activities": [
+            "Say each rhyming pair out loud",
+            "Think of words that rhyme with 'cat'"
+          ],
+          "callout": "Rhyming makes poems sound like music!",
+          "figureCaption": "Word pairs showing all the rhymes from our poems"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Wrap-up",
+          "title": "We Love Poetry!",
+          "body": "What a wonderful time we've had reading poems together! We learned that poems are special because they tell stories and have words that rhyme. Rhyming words sound the same at the end, like cat and hat.\n\nWe met Fluffy, who loves chasing butterflies in her garden. We also read about another little cat who runs around and pounces on mice. Both cats are happy when they play outside in the sunshine!\n\nPoetry is all around us. We can find poems in books, hear them in songs, and even make up our own! Remember to listen for rhyming words whenever you hear a poem.",
+          "bullets": [
+            "Poems tell stories with rhyming words",
+            "We met two happy garden cats",
+            "Rhyming words sound the same at the end",
+            "Poetry is fun to listen to"
+          ],
+          "activities": [
+            "Tell someone about your favorite cat",
+            "Listen for rhymes in songs you know"
+          ],
+          "callout": "You can find poetry everywhere!",
+          "figureCaption": "Children reading poetry books with happy cats on the covers"
+        }
+      ],
+      "poemSummaries": [
+        "Fluffy the cat has a wonderful time playing in the garden every single day. She chases pretty butterflies and rolls around in the warm morning sunshine. The poem shows how happy and free Fluffy feels when she's outside playing.",
+        "A little cat runs around everywhere in her sunny garden. She smells the sweet flowers and playfully chases tiny mice. The poem tells us about her fun day playing on the soft green grass until it gets dark."
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "listening to poems",
+        "friendly animals"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

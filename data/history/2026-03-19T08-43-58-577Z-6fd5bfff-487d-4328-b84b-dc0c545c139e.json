@@ -1,0 +1,319 @@
+{
+  "id": "2026-03-19T08-43-58-577Z-6fd5bfff-487d-4328-b84b-dc0c545c139e",
+  "jobId": "6fd5bfff-487d-4328-b84b-dc0c545c139e",
+  "title": "Fun with Rhyming Words",
+  "grade": "prek",
+  "subject": "english",
+  "level": "medium",
+  "chapter": "Poetry",
+  "prompt": "",
+  "createdAt": "2026-03-19T08:43:58.577Z",
+  "coverImage": "/generated-images/71913343-0ae9-488d-bb81-b4702459618e.png",
+  "lessons": [
+    {
+      "title": "Fun with Rhyming Words",
+      "grade": "prek",
+      "subject": "English",
+      "level": "medium",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Identify rhyming words in simple poems",
+        "Clap along to rhythm in poetry",
+        "Create their own rhyming word pairs"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "rhythm",
+          "definition": "the beat you can clap to in a poem"
+        },
+        {
+          "word": "poem",
+          "definition": "words that sound nice together"
+        },
+        {
+          "word": "clap",
+          "definition": "hit your hands together to make a sound"
+        },
+        {
+          "word": "sound",
+          "definition": "what you hear with your ears"
+        },
+        {
+          "word": "beat",
+          "definition": "the steady pattern you can tap to"
+        }
+      ],
+      "warmUp": "Let's play a rhyming game! I'll say a word, you clap and say a word that rhymes! Cat... (clap clap) Bat! Dog... (clap clap) Frog! Sun... (clap clap) Fun!",
+      "mainExplanation": "Rhyming words sound the same at the end, like cat and hat! When we read poems, we can clap to the beat and listen for words that rhyme. Rhyming makes poems fun and musical to say out loud.",
+      "workedExamples": [
+        "POEM 1 — My Little Cat:\nMy cat is fat\nHe wears a hat\nHe sits on a mat\nAnd chases a rat",
+        "POEM 2 — Sunny Day:\nThe sun is bright\nThe sky is blue\nI run and play\nWith friends so new"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What does the cat wear on his head?",
+            "type": "fill-in-blank",
+            "hint": "Look at the second line of the poem about the cat"
+          },
+          {
+            "question": "What does the cat chase?",
+            "type": "fill-in-blank",
+            "hint": "It's the last word in the cat poem"
+          },
+          {
+            "question": "Match the rhyming words from 'My Little Cat': fat - ___",
+            "type": "matching",
+            "hint": "What does the cat wear?"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this line: 'The sun is ___'",
+            "type": "fill-in-blank",
+            "hint": "What color is the sun in the poem?"
+          },
+          {
+            "question": "Match the rhyming words from 'Sunny Day': blue - ___",
+            "type": "matching",
+            "hint": "What kind of friends does the poem talk about?"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one sentence about what the child does on the sunny day.",
+            "type": "fill-in-blank",
+            "hint": "Look at what the poem says about running and playing"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What does the cat wear?",
+          "options": [
+            "A) hat",
+            "B) shoe",
+            "C) shirt",
+            "D) coat"
+          ],
+          "answer": "A",
+          "explanation": "The poem says 'He wears a hat'"
+        },
+        {
+          "question": "What does the cat sit on?",
+          "options": [
+            "A) chair",
+            "B) mat",
+            "C) bed",
+            "D) table"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'He sits on a mat'"
+        },
+        {
+          "question": "What does the cat chase?",
+          "options": [
+            "A) dog",
+            "B) bird",
+            "C) rat",
+            "D) ball"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'And chases a rat'"
+        },
+        {
+          "question": "What color is the sky in the sunny day poem?",
+          "options": [
+            "A) green",
+            "B) blue",
+            "C) red",
+            "D) yellow"
+          ],
+          "answer": "B",
+          "explanation": "The poem says 'The sky is blue'"
+        },
+        {
+          "question": "Who does the child play with?",
+          "options": [
+            "A) cat",
+            "B) dog",
+            "C) friends",
+            "D) mom"
+          ],
+          "answer": "C",
+          "explanation": "The poem says 'With friends so new'"
+        }
+      ],
+      "answerKey": "1. A) hat - The cat wears a hat\n2. B) mat - The cat sits on a mat\n3. C) rat - The cat chases a rat\n4. B) blue - The sky is blue\n5. C) friends - The child plays with friends",
+      "teacherNotes": "Use exaggerated facial expressions and clear pronunciation when demonstrating rhyming words. Many preschoolers confuse rhyming with words that start with the same sound - consistently emphasize that rhyming words sound the same at the END. Keep picture cards simple and familiar. Some students may struggle with clapping to rhythm - modify as needed.",
+      "additionalResources": "Picture cards showing rhyming pairs, nursery rhyme books, simple percussion instruments for rhythm activities",
+      "description": "Children will discover rhyming words and rhythm through fun, simple poems. They will learn to hear sounds that match and create their own rhymes.",
+      "images": {
+        "cover": "/generated-images/71913343-0ae9-488d-bb81-b4702459618e.png",
+        "content": [],
+        "poems": [
+          "/generated-images/45e4dfbd-887a-4223-b1e6-fd6d58ec828a.png",
+          "/generated-images/d6edbe55-4fe6-4eaa-880f-c6e650d65c91.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Opening Circle Time (5 min):** Gather students in a circle and sing a familiar nursery rhyme like 'Twinkle, Twinkle, Little Star' together. Ask students what they notice about some of the words (they sound similar at the end). **Introduction to Rhyming (8 min):** Explain that rhyming words sound the same at the end, like 'cat' and 'hat'. Hold up picture cards showing rhyming pairs (cat/hat, dog/frog, bee/tree) and have students repeat the words, emphasizing the ending sounds. **Interactive Rhyming Game (10 min):** Say a word like 'sun' and have students suggest words that rhyme (fun, run, bun). Use gestures and pictures to help. Practice with 4-5 different word families. **Rhythm and Clapping Activity (8 min):** Recite 'Hickory Dickory Dock' while clapping to the beat. Have students clap along, then identify the rhyming words (dock/clock). Repeat with 'Jack and Jill' focusing on hill/Jill. **Creating Rhyming Pairs (10 min):** Give each student two picture cards that rhyme. Have them show their cards and say both words clearly. Help struggling students by providing the first sound. **Closing Rhyme Time (4 min):** End with a group recitation of a simple rhyme, with students clapping and emphasizing rhyming words. Praise their participation and remind them to listen for rhymes in stories at home.",
+        "teacherNotes": "Use exaggerated facial expressions and clear pronunciation when demonstrating rhyming words to help students hear the sound patterns. Many preschoolers confuse rhyming with words that start with the same sound - consistently emphasize that rhyming words sound the same at the END. Keep picture cards simple and familiar (avoid complex images that might distract from the sound focus). Some students may struggle with clapping to rhythm - model hand-over-hand if needed and don't worry if they're not perfectly on beat. Have extra rhyming word cards ready for fast finishers, and be prepared to provide more scaffolding for students who need additional support with sound discrimination."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Welcome to Rhyming",
+          "title": "What Are Rhyming Words?",
+          "body": "Hello, little poets! Today we're going to learn about something very special called rhyming words. Rhyming words are words that sound the same at the end. When you say them together, they make a happy sound in your ears!\n\nListen to these words: cat and hat. Do you hear how they sound the same at the end? Cat... hat... cat... hat! They rhyme! Now try these: dog and frog. Dog... frog... dog... frog! They rhyme too!\n\nRhyming words are like best friends - they love to play together in poems and songs. When we find rhyming words, we can clap our hands and smile because they sound so nice together.",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "Cat and hat are rhyming words",
+            "Dog and frog rhyme too",
+            "Rhyming words are like best friends"
+          ],
+          "activities": [
+            "Say 'cat' and 'hat' out loud - do you hear the rhyme?"
+          ],
+          "callout": "Remember: Rhyming words sound the same at the END!",
+          "figureCaption": "A smiling cat wearing a colorful hat"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Clapping and Rhythm",
+          "title": "Let's Clap to the Beat!",
+          "body": "Poems have something special called rhythm. Rhythm is like the heartbeat of a poem - it's the beat you can clap to! When we read poems out loud, we can clap our hands to help us hear the rhythm.\n\nLet's try it together! I'll say some words, and you clap along: 'The cat sits on the mat!' (Clap, clap, clap, clap!) Did you feel the beat? That's rhythm!\n\nWhen we clap to poems, it helps us hear the rhyming words even better. The rhythm and the rhymes work together like music. It makes reading poems super fun and easy to remember!",
+          "bullets": [
+            "Rhythm is the beat in a poem",
+            "We can clap along to rhythm",
+            "Rhythm helps us hear rhymes better",
+            "Clapping makes poems more fun"
+          ],
+          "activities": [
+            "Practice clapping as you say 'The cat sits on the mat!'"
+          ],
+          "callout": "Clap your hands to feel the rhythm!",
+          "figureCaption": "Happy children clapping their hands together"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Our First Poem",
+          "title": "My Little Cat",
+          "body": "Now let's read our first poem together! This poem is about a funny little cat. As we read it, listen carefully for the rhyming words. Can you hear which words sound the same at the end?\n\nMy Little Cat:\nMy cat is fat\nHe wears a hat\nHe sits on a mat\nAnd chases a rat\n\nDid you hear the rhyming words? Fat, hat, mat, and rat all sound the same at the end! They all end with the 'at' sound. Let's read it again and clap along to the rhythm. Clap once for each word!",
+          "bullets": [
+            "The cat is fat",
+            "He wears a hat",
+            "He sits on a mat",
+            "He chases a rat"
+          ],
+          "activities": [
+            "Read the poem out loud and clap to the beat"
+          ],
+          "callout": "Fat, hat, mat, and rat all rhyme!",
+          "figureCaption": "A chubby orange cat wearing a blue hat, sitting on a striped mat"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Understanding Our Cat",
+          "title": "What Does Our Cat Do?",
+          "body": "Let's talk about our funny cat from the poem! This cat is very special. He is fat, which means he's a bit chubby and round. He must eat lots of yummy cat food!\n\nOur cat loves to dress up - he wears a hat on his head! Have you ever seen a cat wear a hat? It must look very silly and cute. The cat also likes to sit on his soft mat. A mat is like a small rug where he can rest and feel comfortable.\n\nThe most exciting thing about our cat is that he chases a rat! Cats love to chase and play. This rat probably runs very fast around the house, and our cat tries to catch it. What a playful and fun cat!",
+          "bullets": [
+            "The cat is fat and chubby",
+            "He wears a hat like people do",
+            "He sits on a comfortable mat",
+            "He loves chasing a quick rat"
+          ],
+          "activities": [
+            "Act out being a cat chasing a rat"
+          ],
+          "callout": "Cats love to chase and play!",
+          "figureCaption": "The cat playing and chasing a small gray rat around the room"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Our Second Poem",
+          "title": "Sunny Day",
+          "body": "Here's another wonderful poem for us to read together! This one is about playing outside on a beautiful day. Listen for the rhyming words as we read!\n\nSunny Day:\nThe sun is bright\nThe sky is blue\nI run and play\nWith friends so new\n\nThis poem has different rhyming words than our cat poem. Can you hear them? 'Blue' and 'new' sound the same at the end - they rhyme! Let's read it again and clap along. Feel how the rhythm moves like you're running and playing outside!",
+          "bullets": [
+            "The sun is bright and shiny",
+            "The sky is beautiful and blue",
+            "Children run and play together",
+            "They play with their new friends"
+          ],
+          "activities": [
+            "Read the poem and pretend to run in place"
+          ],
+          "callout": "Blue and new rhyme perfectly!",
+          "figureCaption": "Children playing happily under a bright yellow sun and blue sky"
+        },
+        {
+          "pageNumber": 6,
+          "section": "A Perfect Day Outside",
+          "title": "Playing in the Sunshine",
+          "body": "What a wonderful day the poem describes! The sun is shining bright in the sky, making everything warm and cheerful. When the sun is bright, it means it's giving lots of light and warmth to help us play outside.\n\nThe sky is a beautiful blue color - just like the color of blueberries or the ocean! Blue skies mean it's a perfect day to go outside and have fun. No clouds are blocking the sun, so everything looks bright and happy.\n\nIn the poem, children are running and playing with their friends. These are new friends, which makes it even more exciting! Making new friends and playing together is one of the best parts of a sunny day. Everyone is having a wonderful time together in the warm sunshine.",
+          "bullets": [
+            "Bright sun makes everything warm",
+            "Blue skies are perfect for playing",
+            "Running and playing is fun",
+            "New friends make everything better"
+          ],
+          "activities": [
+            "Draw a picture of yourself playing on a sunny day"
+          ],
+          "callout": "Sunny days are perfect for making new friends!",
+          "figureCaption": "A group of diverse children holding hands and playing in a sunny park"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Practice Time",
+          "title": "Find the Rhyming Words!",
+          "body": "Now it's time to practice what we've learned! Let's play some fun games with rhyming words. Remember, rhyming words sound the same at the end.\n\nFrom our cat poem, we learned that fat, hat, mat, and rat all rhyme. From our sunny day poem, we learned that blue and new rhyme together. Can you think of other words that rhyme with these?\n\nWhat other words rhyme with 'cat'? How about bat, or sat? What about words that rhyme with 'sun'? Try fun, or run! When you find rhyming words, clap your hands and smile - you're becoming a great poet!",
+          "bullets": [
+            "Fat, hat, mat, rat all rhyme",
+            "Blue and new rhyme together",
+            "Cat rhymes with bat and sat",
+            "Sun rhymes with fun and run"
+          ],
+          "activities": [
+            "Think of a word that rhymes with 'dog'",
+            "Clap when you hear rhyming words"
+          ],
+          "callout": "You're becoming a rhyming expert!",
+          "figureCaption": "Children pointing to pictures of rhyming word pairs"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Celebration",
+          "title": "You Did It!",
+          "body": "Congratulations! You've learned all about rhyming words and rhythm in poems. You can now listen for words that sound the same at the end, and you can clap along to the beat of poems. That makes you a real poet!\n\nRemember our funny cat who wears a hat and sits on a mat? Remember the children playing on a bright sunny day under the blue sky with their new friends? These poems will stay in your mind because of their wonderful rhyming words and rhythms.\n\nKeep listening for rhyming words everywhere - in songs, in books, and in the words people say. You might even want to make up your own rhyming words and poems! Poetry is all around us, and now you know how to find it and enjoy it.",
+          "bullets": [
+            "You learned about rhyming words",
+            "You can clap to rhythm",
+            "You remember both poems",
+            "You're ready to find more rhymes"
+          ],
+          "activities": [
+            "Say both poems from memory",
+            "Make up your own rhyming word pair"
+          ],
+          "callout": "You are now a rhyming word expert!",
+          "figureCaption": "A happy child holding a book of poems with a big smile"
+        }
+      ],
+      "poemSummaries": [
+        "A funny fat cat wears a hat and sits on his mat. He likes to chase rats around the house. The cat sounds very playful and silly.",
+        "Children are playing outside on a beautiful sunny day. The sky is bright blue and they are running around with their new friends. Everyone is having a wonderful time together."
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "rhythm",
+        "poetry sounds"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

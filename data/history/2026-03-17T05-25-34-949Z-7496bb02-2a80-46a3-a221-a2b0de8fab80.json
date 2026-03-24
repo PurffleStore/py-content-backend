@@ -1,0 +1,305 @@
+{
+  "id": "2026-03-17T05-25-34-949Z-7496bb02-2a80-46a3-a221-a2b0de8fab80",
+  "jobId": "7496bb02-2a80-46a3-a221-a2b0de8fab80",
+  "title": "Fun with Rhyming Words",
+  "grade": "prek",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "",
+  "createdAt": "2026-03-17T05:25:34.949Z",
+  "coverImage": "/generated-images/a8717de0-2f55-45a9-ab2f-3ee7ce54bb48.png",
+  "lessons": [
+    {
+      "title": "Fun with Rhyming Words",
+      "grade": "PreK",
+      "subject": "English",
+      "level": "basic",
+      "duration": "30 minutes",
+      "learningObjectives": [
+        "Identify words that rhyme",
+        "Clap along to simple rhythm patterns",
+        "Create their own rhyming word pairs"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "rhythm",
+          "definition": "the beat or pattern in a poem"
+        },
+        {
+          "word": "clap",
+          "definition": "hit your hands together to make sound"
+        },
+        {
+          "word": "pattern",
+          "definition": "something that repeats the same way"
+        },
+        {
+          "word": "sound",
+          "definition": "what we hear with our ears"
+        },
+        {
+          "word": "beat",
+          "definition": "the steady rhythm like in music"
+        }
+      ],
+      "warmUp": "Let's play a rhyming clapping game! I'll say a word, you clap and say a word that sounds the same. Cat... (clap clap) BAT! Dog... (clap clap) LOG! Sun... (clap clap) FUN!",
+      "mainExplanation": "Rhyming words sound the same at the end! Cat and hat rhyme. Dog and log rhyme. When we read poems, we can clap to the beat like music. Let's find rhyming words and clap along!",
+      "workedExamples": [
+        "POEM 1 — My Little Cat:\nI have a little cat\nWho likes to wear a hat\nShe sits upon a mat\nAnd that is where she's at",
+        "POEM 2 — Fun in the Sun:\nI like to run and play\nOutside on a sunny day\nI jump and hop hooray\nThen rest beneath the hay"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "Cat rhymes with ___. (hat, dog)",
+            "type": "fill-in-blank",
+            "hint": "What word sounds like cat at the end?"
+          },
+          {
+            "question": "Match the rhyming words: sun - run, bee - tree",
+            "type": "matching",
+            "hint": "Find words that sound the same at the end!"
+          },
+          {
+            "question": "Dog rhymes with ___. (frog, bird)",
+            "type": "fill-in-blank",
+            "hint": "Listen for the same ending sound as dog!"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Finish the rhyme: The cat sat on a ___.",
+            "type": "fill-in-blank",
+            "hint": "What rhymes with cat?"
+          },
+          {
+            "question": "Match these rhyming pairs: ball - wall, fish - dish",
+            "type": "matching",
+            "hint": "Listen carefully to the ending sounds!"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one pair of rhyming words you know.",
+            "type": "fill-in-blank",
+            "hint": "Think of two words that sound the same at the end!"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which word rhymes with cat?",
+          "options": [
+            "A) hat",
+            "B) dog",
+            "C) fish",
+            "D) run"
+          ],
+          "answer": "A",
+          "explanation": "Hat and cat both end with the same 'at' sound, so they rhyme."
+        },
+        {
+          "question": "Which word rhymes with sun?",
+          "options": [
+            "A) moon",
+            "B) fun",
+            "C) star",
+            "D) big"
+          ],
+          "answer": "B",
+          "explanation": "Fun and sun both end with the same 'un' sound, so they rhyme."
+        },
+        {
+          "question": "What do we do when we hear a beat?",
+          "options": [
+            "A) sleep",
+            "B) eat",
+            "C) clap",
+            "D) cry"
+          ],
+          "answer": "C",
+          "explanation": "We clap our hands to follow the beat and rhythm of music or words."
+        },
+        {
+          "question": "Which word rhymes with box?",
+          "options": [
+            "A) car",
+            "B) socks",
+            "C) ball",
+            "D) tree"
+          ],
+          "answer": "B",
+          "explanation": "Box and socks both end with the same 'ox' sound, so they rhyme."
+        },
+        {
+          "question": "Which word rhymes with bee?",
+          "options": [
+            "A) tree",
+            "B) bird",
+            "C) flower",
+            "D) grass"
+          ],
+          "answer": "A",
+          "explanation": "Bee and tree both end with the same 'ee' sound, so they rhyme."
+        }
+      ],
+      "answerKey": "1. A) hat - rhymes with cat\n2. B) fun - rhymes with sun\n3. C) clap - we clap to the beat\n4. B) socks - rhymes with box\n5. A) tree - rhymes with bee",
+      "teacherNotes": "Have children clap along to each poem's rhythm. Repeat the poems several times, emphasizing the rhyming words with hand gestures. Encourage children to say the rhyming words loudly together. Keep picture cards handy as visual supports.",
+      "additionalResources": "Picture cards with rhyming pairs, simple nursery rhyme books, rhythm instruments for beat practice, rhyming word charts",
+      "description": "Little learners will discover rhyming words and clap to fun rhythms in simple poems. This interactive lesson helps children identify words that sound the same at the end.",
+      "images": {
+        "cover": "/generated-images/a8717de0-2f55-45a9-ab2f-3ee7ce54bb48.png",
+        "content": [],
+        "poems": [
+          "/generated-images/08dd19ce-bcfc-47da-a40f-a403139b077c.png",
+          "/generated-images/399ed5ea-ee7e-4a75-85c4-c6f6cde7b293.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Opening Circle Time (5 min)**: Gather children on carpet. Say 'Today we're going to play with words that sound the same at the end - these are called rhyming words!' Demonstrate with 'cat' and 'hat' - emphasize the '-at' sound. **Introduction to Rhyming (10 min)**: Present pairs of objects or pictures: cat/hat, dog/log, bee/tree. Have children repeat each pair and listen for the similar ending sounds. Ask 'Do you hear how cat and hat sound the same at the end?' **Rhyming Game (8 min)**: Play 'Rhyme Time' - say a word like 'sun' and have children think of rhyming words (fun, run, bun). Use picture cards as prompts if needed. Celebrate all attempts, even if not perfect rhymes. **Rhythm and Clapping (7 min)**: Introduce simple nursery rhymes like 'Twinkle, Twinkle, Little Star.' Read slowly first, then add clapping to each syllable. Have children clap along. Try 'Row, Row, Row Your Boat' next. **Creative Rhyming Activity (10 min)**: Give each child a simple word card (cat, ball, bee). Help them find or create a rhyming word. Practice saying their rhyming pair together. **Closing Song (5 min)**: Sing a simple rhyming song together while clapping the rhythm. Review what rhyming words are and ask for one example from each child.",
+        "teacherNotes": "Keep picture cards handy as visual supports - many prekinders need concrete images to understand abstract sound concepts. Don't worry if children suggest words that don't perfectly rhyme initially (like 'cat' and 'dog') - focus on praising their listening efforts and gently model correct rhymes. Some children may struggle with clapping and speaking simultaneously - let them choose one or the other at first. Watch for children who may have hearing difficulties if they consistently miss rhyming patterns. Use exaggerated facial expressions and mouth movements when saying rhyming words to help children see the similar ending sounds."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Let's Learn About Rhyming Words!",
+          "body": "Hello, little readers! Today we're going on a special word adventure. We're going to learn about rhyming words - these are words that sound the same at the end!\n\nListen carefully: CAT and HAT. Do you hear how they sound the same at the end? They both have the 'AT' sound! When words sound the same at the end like this, we say they RHYME.\n\nRhyming words are everywhere around us. They make poems sound musical and fun. When we find rhyming words, we can clap our hands to the beat just like music!",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "Cat and hat are rhyming words",
+            "We can clap along to rhyming poems"
+          ],
+          "activities": [
+            "Practice saying 'cat' and 'hat' - can you hear they sound the same?"
+          ],
+          "callout": "Rhyming words make poems sound like music!",
+          "figureCaption": "A happy cat wearing a colorful hat sits on a mat"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Word Discovery",
+          "title": "Finding Rhyming Word Pairs",
+          "body": "Let's discover more rhyming words together! When we look for rhyming words, we listen very carefully to the ending sounds.\n\nDOG and LOG - these words rhyme! They both end with the 'OG' sound. Can you say them out loud? DOG... LOG... Do you hear it?\n\nSUN and FUN are another rhyming pair. They both end with 'UN'. When we say SUN and FUN together, they sound so happy and bright!\n\nBEE and TREE also rhyme because they both end with the 'EE' sound. A busy bee flying around a tall tree - what a perfect rhyming picture!",
+          "bullets": [
+            "Dog and log both end with 'OG'",
+            "Sun and fun both end with 'UN'",
+            "Bee and tree both end with 'EE'"
+          ],
+          "activities": [
+            "Try saying each rhyming pair out loud and listen to the ending sounds"
+          ],
+          "callout": "Listen carefully to hear the same ending sounds!",
+          "figureCaption": "A friendly dog sitting on a log, with a sunny sky and a bee near a tree"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Rhythm and Beat",
+          "title": "Clapping to the Beat",
+          "body": "Rhyming words don't just sound alike - they help us make rhythm too! Rhythm is like the heartbeat of a poem. We can clap our hands to follow along.\n\nWhen we read a poem with rhyming words, we can clap on each word or beat. Let's try it! Put your hands together and get ready to clap.\n\nTry clapping while you say: 'The cat sat on the mat.' Clap - clap - clap - clap - clap! Each clap matches one word. This is called keeping the beat.\n\nPoems with rhyming words sound even more fun when we clap along. The rhythm makes the words dance in our ears!",
+          "bullets": [
+            "Rhythm is like the heartbeat of a poem",
+            "We clap our hands to keep the beat",
+            "Each clap can match one word"
+          ],
+          "activities": [
+            "Practice clapping while saying simple rhyming phrases"
+          ],
+          "callout": "Clap along - poems are like music!",
+          "figureCaption": "Children sitting in a circle, clapping their hands with big smiles"
+        },
+        {
+          "pageNumber": 4,
+          "section": "First Poem",
+          "title": "My Little Cat",
+          "body": "Now let's read our first rhyming poem together! This is a poem about a special little cat who loves to wear hats. Read along and listen for the rhyming words.\n\n'I have a little cat,\nWho likes to wear a hat,\nShe sits upon a mat,\nAnd that is where she's at!'\n\nDid you hear the rhyming words? CAT, HAT, MAT, and AT all rhyme! They all end with the same 'AT' sound.\n\nThis poem tells us about a cute cat who has found her favorite spot. She sits on a soft mat while wearing her pretty hat. The cat looks so happy and comfortable in her special place!",
+          "bullets": [
+            "Cat, hat, mat, and at all rhyme",
+            "The cat loves wearing hats",
+            "She has a favorite spot on the mat"
+          ],
+          "activities": [
+            "Read the poem out loud and clap on each rhyming word"
+          ],
+          "callout": "Can you find all four rhyming words in this poem?",
+          "figureCaption": "A small orange cat wearing a blue hat, sitting contentedly on a colorful woven mat"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Second Poem",
+          "title": "Fun in the Sun",
+          "body": "Here's another wonderful rhyming poem! This one is about playing outside on a beautiful day. Listen carefully for all the rhyming words.\n\n'I like to run and play,\nOutside on a sunny day,\nI jump and hop hooray,\nThen rest beneath the hay!'\n\nWhat rhyming words did you hear? PLAY, DAY, HOORAY, and HAY all rhyme! They all end with the 'AY' sound.\n\nThis poem shows us how much fun we can have outside. Running, jumping, and playing in the sunshine makes us feel so happy. And when we get tired from all that playing, it feels good to rest in a peaceful spot.",
+          "bullets": [
+            "Play, day, hooray, and hay all rhyme",
+            "The poem is about playing outside",
+            "After playing, it's nice to rest"
+          ],
+          "activities": [
+            "Act out running, jumping, and resting while reading the poem"
+          ],
+          "callout": "Say 'hooray' - it's such a happy rhyming word!",
+          "figureCaption": "A child running and jumping joyfully in a sunny field with golden hay"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Practice Time",
+          "title": "Let's Practice Rhyming!",
+          "body": "Now it's your turn to be rhyming detectives! We're going to practice finding and making rhyming words together.\n\nLet's start with some easy ones. If I say 'ball,' can you think of a word that rhymes? How about WALL? Ball and wall both end with 'ALL' - they rhyme perfectly!\n\nTry this one: If I say 'fish,' what rhymes with fish? That's right - DISH! Fish and dish both end with 'ISH.'\n\nRemember, rhyming words don't have to be spelled the same way. They just need to SOUND the same at the end. Keep practicing, and soon you'll be a rhyming expert!",
+          "bullets": [
+            "Ball and wall rhyme with 'ALL'",
+            "Fish and dish rhyme with 'ISH'",
+            "Rhyming words sound the same at the end"
+          ],
+          "activities": [
+            "Think of words that rhyme with: star, cake, boat"
+          ],
+          "callout": "You can be a rhyming detective too!",
+          "figureCaption": "A child with a detective hat holding a magnifying glass, looking for rhyming words"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Making Music",
+          "title": "Poems Are Like Songs",
+          "body": "Did you know that poems with rhyming words are like songs without music? The rhyming words and rhythm make poems sound musical and fun!\n\nWhen we read poems out loud, we can make them sound even more like music by clapping, tapping, or even marching to the beat. Try reading 'Twinkle, Twinkle, Little Star' while clapping - it sounds like a song!\n\nPoems help us play with language and sounds. They make words dance and sing. The more we practice with rhyming words, the better we get at hearing the music in language.\n\nYou can even try making up your own simple rhymes! Start with words you know well, like your name or favorite things.",
+          "bullets": [
+            "Poems are like songs without music",
+            "We can clap, tap, or march to poem beats",
+            "Rhyming words make language musical"
+          ],
+          "activities": [
+            "Try clapping along to 'Twinkle, Twinkle, Little Star'"
+          ],
+          "callout": "Make your own rhyme with words you love!",
+          "figureCaption": "Musical notes floating around happy children reading poems together"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Celebration",
+          "title": "You're a Rhyming Star!",
+          "body": "Congratulations! You've learned so much about rhyming words today. You can find words that sound the same at the end, clap along to poem rhythms, and even think of your own rhyming pairs!\n\nRemember all the rhyming words we discovered: cat and hat, dog and log, sun and fun, bee and tree, ball and wall, fish and dish. These are just the beginning - there are so many more rhyming words to find!\n\nKeep practicing with rhyming words every day. You can find them in books, songs, and even make them up during playtime. The more you practice, the better you'll become at hearing and creating these special sound patterns.\n\nYou're now ready to enjoy poems, songs, and rhyming games. Keep exploring the wonderful world of words that rhyme!",
+          "bullets": [
+            "You learned to find rhyming words",
+            "You can clap along to poem beats",
+            "You know many rhyming pairs now"
+          ],
+          "activities": [
+            "Share your favorite rhyming word pair with a friend"
+          ],
+          "callout": "You're a rhyming superstar - keep practicing!",
+          "figureCaption": "A smiling child wearing a gold star badge, surrounded by floating rhyming word pairs"
+        }
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "rhythm patterns",
+        "simple poems"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

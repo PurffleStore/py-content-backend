@@ -1,0 +1,313 @@
+{
+  "id": "2026-03-16T09-10-40-632Z-16dfda7f-89c7-4ce9-808d-2156ba2b5e5f",
+  "jobId": "16dfda7f-89c7-4ce9-808d-2156ba2b5e5f",
+  "title": "Fun with Rhyming Poems",
+  "grade": "2",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "Poem - 1:\nWrite a short, simple poem for young children using easy rhyming words about a friendly cat playing in the garden. The poem should have 4–6 lines and a cheerful tone.\n\nPoem - 2:\nWrite a short, playful poem for early learners about a happy dog running in the park, using clear rhyming words and simple vocabulary. The poem should contain 4–6 lines and be easy to read aloud.",
+  "createdAt": "2026-03-16T09:10:40.632Z",
+  "coverImage": null,
+  "lessons": [
+    {
+      "title": "Fun with Rhyming Poems",
+      "grade": "2",
+      "subject": "English",
+      "level": "basic",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Identify rhyming words in simple poems",
+        "Read poems aloud with expression",
+        "Create their own rhyming words"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "poem",
+          "definition": "special words that tell a story or paint a picture"
+        },
+        {
+          "word": "rhythm",
+          "definition": "the beat or pattern in a poem"
+        },
+        {
+          "word": "expression",
+          "definition": "using your voice to make reading sound exciting"
+        },
+        {
+          "word": "verse",
+          "definition": "a group of lines in a poem"
+        },
+        {
+          "word": "pattern",
+          "definition": "something that repeats the same way"
+        }
+      ],
+      "warmUp": "Let's clap and say words that rhyme! I'll say 'cat' and you say a word that sounds like it! Cat... hat! Dog... log! When words sound the same at the end, they RHYME! Ready to find more rhyming words in fun poems?",
+      "mainExplanation": "Poems are special word pictures that often use RHYMING WORDS. Rhyming words sound the same at the end, like 'play' and 'day'. When we read poems out loud, we can use our voice to make them sound exciting and fun! Today we'll read poems about animals and find the rhyming words.",
+      "workedExamples": [
+        "POEM 1 — My Garden Cat:\nFluffy cat loves to play\nIn the garden every day\nChasing butterflies so bright\nUntil the sun says goodnight",
+        "POEM 2 — Happy Park Dog:\nSpotty dog runs so fast\nThrough the park, having a blast\nJumping high and wagging tail\nOn the sunny walking trail"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "Which word rhymes with 'cat'? hat, dog, tree",
+            "type": "multiple-choice",
+            "hint": "Think about words that end with the same sound as 'cat'"
+          },
+          {
+            "question": "Fill in the blank: The sun is bright, the moon is _____ (night/day)",
+            "type": "fill-in-blank",
+            "hint": "What word sounds like 'bright' at the end?"
+          },
+          {
+            "question": "Match the rhyming words: bee, car, run → tree, fun, star",
+            "type": "matching",
+            "hint": "Listen to how the endings of the words sound"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete the rhyme: I see a red _____, flying in the blue sky (bird/car)",
+            "type": "fill-in-blank",
+            "hint": "What rhymes with 'red' and makes sense?"
+          },
+          {
+            "question": "Match these rhyming pairs: make, play, jump → cake, day, bump",
+            "type": "matching",
+            "hint": "Find the words that have the same ending sounds"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one pair of rhyming words that both name animals",
+            "type": "short-answer",
+            "hint": "Think of two animal names that sound alike at the end"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "Which word rhymes with cat?",
+          "options": [
+            "A) hat",
+            "B) dog",
+            "C) fish",
+            "D) run"
+          ],
+          "answer": "A",
+          "explanation": "Hat and cat both end with the same sound -at, so they rhyme."
+        },
+        {
+          "question": "Which word rhymes with sun?",
+          "options": [
+            "A) moon",
+            "B) fun",
+            "C) big",
+            "D) tree"
+          ],
+          "answer": "B",
+          "explanation": "Fun and sun both end with the same sound -un, so they rhyme."
+        },
+        {
+          "question": "When we read a poem out loud, we should use:",
+          "options": [
+            "A) expression",
+            "B) silence",
+            "C) rushing",
+            "D) mumbling"
+          ],
+          "answer": "A",
+          "explanation": "Expression means using your voice to show feelings and make the poem sound interesting."
+        },
+        {
+          "question": "Which word rhymes with bee?",
+          "options": [
+            "A) ant",
+            "B) fly",
+            "C) tree",
+            "D) bug"
+          ],
+          "answer": "C",
+          "explanation": "Tree and bee both end with the same sound -ee, so they rhyme."
+        },
+        {
+          "question": "A poem is made up of lines called:",
+          "options": [
+            "A) sentences",
+            "B) verses",
+            "C) stories",
+            "D) letters"
+          ],
+          "answer": "B",
+          "explanation": "Verses are groups of lines in a poem that go together."
+        }
+      ],
+      "answerKey": "Easy: 1. hat 2. night 3. bee-tree, car-star, run-fun | Medium: 1. bird 2. make-cake, play-day, jump-bump | Challenge: Examples include cat-bat, dog-frog, bee-flee | Quiz: 1. A) hat 2. B) fun 3. A) expression 4. C) tree 5. B) verses",
+      "teacherNotes": "Have students clap along to the rhythm of each poem as you read it aloud. Point out the rhyming words and encourage children to repeat the poems with expression. Use hand gestures to act out the animals' movements. Gather students on carpet for opening circle and use exaggerated emphasis on ending sounds when demonstrating rhymes.",
+      "additionalResources": "Chart paper for displaying poems, colored markers for circling rhyming words, animal picture cards, simple rhythm instruments for clapping beats, children's poetry books with animal themes",
+      "description": "Students explore fun animal poems and learn to identify rhyming words while practicing expressive reading. They discover how words that sound the same at the end create patterns in poetry.",
+      "images": {
+        "cover": null,
+        "content": [],
+        "poems": [
+          "/generated-images/e4119408-f8e0-47e6-aa06-e6520425770a.png",
+          "/generated-images/17a1f065-ac58-4f7e-9397-6ff20f175003.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Opening Circle (5 min)**: Gather students on carpet. Say: 'Today we're going to be poetry detectives!' Demonstrate rhyming by saying 'cat/hat' and 'dog/frog' with exaggerated emphasis on ending sounds. Have students repeat back the word pairs.\n\n**Rhyming Word Hunt (10 min)**: Display simple animal poem on chart paper (e.g., 'The cat sat on a mat, wearing a funny hat'). Read aloud slowly, pointing to each word. Ask: 'Which words sound the same at the end?' Circle rhyming words with different colors. Practice saying just the rhyming words together: 'cat-hat-mat'.\n\n**Expression Practice (8 min)**: Model reading the same poem with different voices - whisper voice, excited voice, sleepy voice. Have students try each voice together. Explain: 'Poems are more fun when we use our voice to match the feeling!' Practice animal sounds within poems.\n\n**Interactive Poem Reading (10 min)**: Use 2-3 short animal poems. Read each poem twice - first time for listening, second time students join in. Point out rhyming patterns. Examples: 'The little mouse lives in a house' or 'Five green frogs sit on logs'.\n\n**Rhyming Game (7 min)**: Say an animal name, students respond with rhyming word. Start with: 'bee' (tree, see, me), 'pig' (big, wig, fig). Use hand clapping to emphasize rhythm. If stuck, provide two choices: 'Does bee rhyme with tree or car?'\n\n**Create Together (8 min)**: Start a class poem: 'I saw a ___ sitting on a ___.' Students suggest animals and rhyming words. Write on board. Read completed verses aloud with expression.\n\n**Closing Share (2 min)**: Students share one favorite rhyming pair from today. Quick review: 'Rhyming words sound the same at the ___' (end!).",
+        "teacherNotes": "Students often confuse words that start the same (cat/car) with rhyming words - emphasize listening to the END sound. Some children may struggle with expression reading - model dramatically and let them be silly with voices. Keep poems short (4-8 lines max) to maintain attention. Visual learners benefit from seeing rhyming words written in the same color. If students suggest non-rhyming words, don't correct immediately - ask the class 'Do these sound the same at the end?' to build listening skills."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to Poetry Land!",
+          "body": "Hello, young poets! Today we're going on a special adventure into the magical world of poems. Poems are like word pictures that dance and sing! They tell stories about animals, nature, and fun adventures using special words that sound alike.\n\nWhat makes poems so special? They have something called RHYME! When words rhyme, they sound the same at the end. It's like they're playing a matching game with sounds. Can you say these words and listen to how they sound: cat, hat, bat? Do you hear how they all end with the same sound? That's rhyming!\n\nPoems also have RHYTHM, which is like a heartbeat or a drum beat. When we read poems, we can clap along to their rhythm. Some poems are fast and bouncy, while others are slow and gentle. The best part is that we can use our voices to make poems come alive!",
+          "bullets": [
+            "Poems are special word pictures",
+            "Rhyming words sound the same at the end",
+            "Poems have rhythm like music",
+            "We can read poems with expression"
+          ],
+          "activities": [
+            "Clap your hands and say: cat, hat, bat, mat!"
+          ],
+          "callout": "Rhyming words are like best friends - they sound alike!",
+          "figureCaption": "A colorful illustration showing various animals (cat, bat, hat) with matching ending sounds"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Main Content",
+          "title": "Meet Our Animal Friends",
+          "body": "Let's meet some adorable animal friends who live in poems! Each animal has a special story to tell, and their stories use rhyming words that make them fun to say and easy to remember.\n\nFirst, let's meet Fluffy the Cat. Fluffy loves to play in the garden every day. Did you notice how 'play' and 'day' sound alike? They rhyme! Fluffy also chases butterflies that are bright until the sun says goodnight. Can you hear how 'bright' and 'goodnight' rhyme too?\n\nNext, we have Spotty the Dog who runs very fast through the park and has a blast. 'Fast' and 'blast' are rhyming friends! Spotty loves jumping high and wagging his tail on the sunny walking trail. Listen carefully - 'tail' and 'trail' rhyme perfectly!",
+          "bullets": [
+            "Fluffy the Cat plays in the garden",
+            "Spotty the Dog runs in the park",
+            "Animals make great poem characters",
+            "Each animal story has rhyming words"
+          ],
+          "activities": [
+            "Point to each rhyming pair as you say them out loud"
+          ],
+          "callout": "Animals love to rhyme just like we do!",
+          "figureCaption": "Illustrations of Fluffy the Cat in a garden and Spotty the Dog in a park"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Practice Page",
+          "title": "Our First Animal Poems",
+          "body": "Now let's read our very first poems together! Remember to use your voice to make these poems sound exciting. You can read them fast or slow, loud or soft, happy or sleepy!\n\n**My Garden Cat**\nFluffy cat loves to play\nIn the garden every day\nChasing butterflies so bright\nUntil the sun says goodnight\n\n**Happy Park Dog**\nSpotty dog runs so fast\nThrough the park, having a blast\nJumping high and wagging tail\nOn the sunny walking trail\n\nCan you find all the rhyming words? In the first poem, we have 'play' and 'day', plus 'bright' and 'goodnight'. In the second poem, we have 'fast' and 'blast', plus 'tail' and 'trail'!",
+          "bullets": [
+            "Read with expression",
+            "Find the rhyming words",
+            "Clap to the rhythm",
+            "Act out the animal movements"
+          ],
+          "activities": [
+            "Read each poem aloud twice, then find all the rhyming pairs"
+          ],
+          "callout": "Use different voices - try a cat voice and a dog voice!",
+          "figureCaption": "Side-by-side illustrations of the cat playing and the dog running"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Interactive Learning",
+          "title": "Rhyme Time Detective Game",
+          "body": "Congratulations! You're now official Rhyme Time Detectives! Your job is to find words that sound alike and solve rhyming mysteries. Let's start with some easy cases that need your help.\n\nDetective Case #1: The word 'bee' is looking for its rhyming friend. The suspects are: tree, car, dog, and book. Which one sounds like 'bee' at the end? If you said 'tree', you're absolutely right! Bee and tree both end with the 'ee' sound.\n\nDetective Case #2: The word 'sun' needs a rhyming partner for a poem. The choices are: fun, cat, big, and house. Can you solve this case? Yes! 'Fun' and 'sun' both end with the 'un' sound, so they're perfect rhyming partners.\n\nGreat detective work! The secret to being a good rhyme detective is to listen carefully to how words end. When two words have the same ending sound, they rhyme!",
+          "bullets": [
+            "Listen to ending sounds",
+            "Compare words carefully",
+            "Trust your ears",
+            "Practice makes perfect"
+          ],
+          "activities": [
+            "Say each word pair out loud and listen for matching sounds"
+          ],
+          "callout": "Good detectives use their ears more than their eyes!",
+          "figureCaption": "A friendly detective with a magnifying glass examining rhyming word pairs"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Creative Expression",
+          "title": "Reading with Feeling",
+          "body": "Now that you're experts at finding rhyming words, let's learn how to make poems come alive with our voices! This is called reading with EXPRESSION. It means using our voice to show feelings and make the poem more interesting and fun.\n\nHere are some ways to read with expression:\n• Happy voice: Make your voice sound cheerful and bouncy\n• Sleepy voice: Read slowly and softly like you're getting drowsy\n• Excited voice: Read faster and louder, like you just saw something amazing\n• Whisper voice: Read very quietly, like you're telling a secret\n\nLet's practice with our cat poem. First, try reading it in a happy, bouncy voice because Fluffy is playing. Then try a sleepy voice for the part about goodnight. Can you feel how different the poem sounds?\n\nThe best part about reading poems is that there's no wrong way to do it! You can be creative and use any voice that feels right for the poem.",
+          "bullets": [
+            "Happy voice sounds cheerful",
+            "Sleepy voice sounds slow and soft",
+            "Excited voice sounds fast and loud",
+            "Whisper voice sounds like a secret"
+          ],
+          "activities": [
+            "Practice reading the same poem with different voices"
+          ],
+          "callout": "Your voice is like a magic wand that brings poems to life!",
+          "figureCaption": "Children showing different expressions while reading - happy, sleepy, excited, whispering"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Practice Activities",
+          "title": "Let's Practice Together",
+          "body": "It's time to practice what we've learned! Here are some fun activities to help you become even better at finding rhymes and reading poems with expression.\n\n**Rhyme Matching Game:**\nDraw lines to connect the rhyming words:\ncat → hat\nbee → tree\ndog → frog\nrun → fun\n\n**Fill in the Rhyme:**\nComplete these poem lines with rhyming words:\n1. The little mouse lives in a _____ (house)\n2. Five green frogs sit on _____ (logs)\n3. A big brown bear has fuzzy _____ (hair)\n\n**Expression Practice:**\nTry reading this short poem with different feelings:\n'The happy bunny hops around, making not a single sound'\nFirst read it excited, then read it like a whisper!",
+          "bullets": [
+            "Match rhyming word pairs",
+            "Complete poem lines",
+            "Practice different reading voices",
+            "Have fun with sounds"
+          ],
+          "activities": [
+            "Complete all the rhyming exercises, then read them aloud"
+          ],
+          "callout": "Practice makes you a poetry superstar!",
+          "figureCaption": "Various animals mentioned in the exercises with connecting lines showing rhyming pairs"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Creative Writing",
+          "title": "Create Your Own Rhymes",
+          "body": "Now it's your turn to be a poet! Creating your own rhyming words is like being a word magician. You can make up poems about your favorite animals, toys, or anything you love.\n\nLet's start simple. Pick an animal you like. Let's say you pick 'pig'. Now think of words that rhyme with pig: big, wig, fig, dig. Now you can make a little poem:\n'I saw a pig, so very big, wearing a funny little wig!'\n\nTry making rhymes with these animal words:\n• Cat (hat, bat, mat, sat)\n• Dog (log, frog, jog, fog)\n• Bird (word, heard, third)\n• Fish (wish, dish, swish)\n\nRemember, poems don't have to be long or perfect. Even two rhyming words can make a fun poem! The most important thing is to have fun with words and sounds.",
+          "bullets": [
+            "Pick your favorite animal",
+            "Think of rhyming words",
+            "Make simple two-line poems",
+            "Have fun with word sounds"
+          ],
+          "activities": [
+            "Create your own animal rhyme using any animal you choose"
+          ],
+          "callout": "Every poet started with their very first rhyme!",
+          "figureCaption": "A child writing in a notebook with thought bubbles showing various animals and rhyming words"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Celebration Page",
+          "title": "You're a Poetry Star!",
+          "body": "Congratulations! You've learned so much about rhyming poems today. You can find rhyming words, read with expression, and even create your own rhymes. That makes you a real poetry star!\n\nLet's review what we discovered:\n• Rhyming words sound the same at the end\n• Poems are more fun when we read with expression\n• We can use different voices to bring poems to life\n• Creating our own rhymes is exciting and fun\n• Animals make wonderful characters for poems\n\nPoetry is all around us - in songs, in books, and even in the way people talk sometimes. Now that you know about rhymes, you'll start hearing them everywhere! Keep practicing with your family and friends. Read poems together, make up silly rhymes, and most importantly, have fun with words!\n\nRemember: every time you find a rhyme or read a poem with expression, you're being creative and using your imagination. That's what makes poetry so special and magical!",
+          "bullets": [
+            "You learned about rhyming words",
+            "You can read with expression",
+            "You created your own rhymes",
+            "You're ready for more poetry adventures"
+          ],
+          "activities": [
+            "Share your favorite rhyme from today with someone special"
+          ],
+          "callout": "Poetry is everywhere - keep your ears open for rhymes!",
+          "figureCaption": "A group of happy children holding books and celebrating their poetry achievements with stars and confetti around them"
+        }
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "poetry reading",
+        "animal poems"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "name": "english-grade-3-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/server.js",
+  "description": "Grade 3 English Textbook Generator Backend with Claude AI Agents",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "node src/agents/index.js"
+  },
+  "keywords": [
+    "education",
+    "english",
+    "claude-ai",
+    "agents",
+    "textbook"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.78.0",
+    "axios": "^1.13.6",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "mammoth": "^1.12.0",
+    "multer": "^2.1.1",
+    "openai": "^6.27.0",
+    "pdf-parse": "^2.4.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}

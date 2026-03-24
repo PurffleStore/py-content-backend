@@ -1,0 +1,284 @@
+{
+  "id": "2026-03-19T08-36-25-854Z-27c3d8d7-10cf-446e-a6c8-dedcb2a2d579",
+  "jobId": "27c3d8d7-10cf-446e-a6c8-dedcb2a2d579",
+  "title": "Fun with Rhyming Poems",
+  "grade": "prek",
+  "subject": "english",
+  "level": "basic",
+  "chapter": "Poetry",
+  "prompt": "",
+  "createdAt": "2026-03-19T08:36:25.854Z",
+  "coverImage": "/generated-images/bbbb5ae5-0b1b-48d9-935d-ffbe195221e8.png",
+  "lessons": [
+    {
+      "title": "Fun with Rhyming Poems",
+      "grade": "PreK",
+      "subject": "English",
+      "level": "basic",
+      "duration": "35 minutes",
+      "learningObjectives": [
+        "Identify rhyming words in simple poems",
+        "Clap along to the rhythm of poems",
+        "Create their own rhyming word pairs"
+      ],
+      "keyVocabulary": [
+        {
+          "word": "rhyme",
+          "definition": "words that sound the same at the end"
+        },
+        {
+          "word": "rhythm",
+          "definition": "the beat you can clap to in a poem"
+        },
+        {
+          "word": "poem",
+          "definition": "words that rhyme and have a nice sound"
+        },
+        {
+          "word": "clap",
+          "definition": "hit your hands together to make a sound"
+        },
+        {
+          "word": "sound",
+          "definition": "what you hear with your ears"
+        },
+        {
+          "word": "match",
+          "definition": "when two things are the same"
+        }
+      ],
+      "warmUp": "Let's clap and say words that sound the same! Cat, hat, bat! Dog, frog, log! Sun, fun, run! Clap your hands with each word!",
+      "mainExplanation": "Rhyming words sound the same at the end, like cat and hat. Poems have rhythm when we clap along. We can make our own rhyming words by listening for sounds that match!",
+      "workedExamples": [
+        "POEM 1 — My Happy Cat:\nMy cat likes to play\nOutside every day\nShe jumps so high\nUp to the sky"
+      ],
+      "practiceExercises": {
+        "easy": [
+          {
+            "question": "What animal is in the poem? My _____ likes to play.",
+            "type": "fill-in-blank",
+            "hint": "It's a furry pet that says meow"
+          },
+          {
+            "question": "Match the rhyming words from the poem: play goes with _____",
+            "type": "matching",
+            "hint": "Look at the end sounds in the first two lines"
+          },
+          {
+            "question": "Where does the cat like to play? _____ every day",
+            "type": "fill-in-blank",
+            "hint": "Think about where you go when you leave your house"
+          }
+        ],
+        "medium": [
+          {
+            "question": "Complete this line from the poem: She jumps so _____",
+            "type": "fill-in-blank",
+            "hint": "The cat jumps way up toward the clouds"
+          },
+          {
+            "question": "Match these rhyming words from the poem: high matches with _____",
+            "type": "matching",
+            "hint": "Look at the last two lines of the poem"
+          }
+        ],
+        "challenge": [
+          {
+            "question": "Write one sentence about what the cat does in the poem",
+            "type": "fill-in-blank",
+            "hint": "Think about the cat's actions - playing and jumping"
+          }
+        ]
+      },
+      "quiz": [
+        {
+          "question": "What animal is the poem about?",
+          "options": [
+            "cat",
+            "dog",
+            "bird",
+            "fish"
+          ],
+          "answer": "cat",
+          "explanation": "The poem is about 'My Happy Cat' who likes to play."
+        },
+        {
+          "question": "Where does the cat like to play?",
+          "options": [
+            "inside",
+            "outside",
+            "kitchen",
+            "bed"
+          ],
+          "answer": "outside",
+          "explanation": "The poem says the cat 'likes to play outside every day.'"
+        },
+        {
+          "question": "When does the cat play outside?",
+          "options": [
+            "never",
+            "sometimes",
+            "every day",
+            "at night"
+          ],
+          "answer": "every day",
+          "explanation": "The poem says the cat plays 'outside every day.'"
+        }
+      ],
+      "answerKey": "1. cat - The poem is about a cat\n2. outside - The cat plays outside\n3. every day - The cat plays every day\n4. jumps - The cat jumps high\n5. so high - The cat jumps so high to the sky",
+      "teacherNotes": "Have children clap along to each line of the poem. Repeat the poems several times so they can join in and feel the rhythm. Emphasize rhyming pairs by pointing to your ear when saying them.",
+      "additionalResources": "Picture cards with rhyming pairs, chart paper for displaying student rhymes, familiar nursery rhymes for practice",
+      "description": "Little learners will discover the magic of rhyming words through fun poems and clapping games. They'll identify rhymes, feel rhythm, and create their own word pairs.",
+      "images": {
+        "cover": "/generated-images/bbbb5ae5-0b1b-48d9-935d-ffbe195221e8.png",
+        "content": [],
+        "poems": [
+          "/generated-images/cedcddfc-e2c2-473b-a703-7624cc9c1001.png"
+        ]
+      },
+      "resourceSections": {
+        "teacherGuide": "**Opening Circle Time (5 minutes)**: Gather children on the carpet and introduce rhyming with enthusiasm: 'Today we're going to play with words that sound alike at the end - these are called rhyming words!' Start with familiar examples: 'Cat rhymes with hat because they both end with -at. Can you hear it? Cat... hat!' Have children repeat these pairs back to you. **Interactive Rhyme Demonstration (8 minutes)**: Read 'Twinkle, Twinkle, Little Star' slowly, emphasizing the rhyming words (star/are, high/sky). Point to your ear when you say rhyming words: 'Listen with your ears!' Have children put hands to their ears when they hear rhyming words. Repeat with 'Row, Row, Row Your Boat' focusing on dream/stream. **Clapping and Rhythm Activity (10 minutes)**: Teach children to clap along to poem rhythm. Start with simple clapping to 'Pat-a-cake' while reciting slowly. Model steady clapping: 'Clap with the beat!' Practice with 'If You're Happy and You Know It' - clap hands, stomp feet to the rhythm. Let children lead the clapping as you recite familiar nursery rhymes. **Rhyming Word Hunt Game (8 minutes)**: Present picture cards with rhyming pairs (cat/hat, sun/fun, bee/tree). Hold up one card: 'I have a picture of a cat. Who can find what rhymes with cat?' When children find the match, celebrate: 'Yes! Cat and hat rhyme!' Practice with 3-4 different pairs, letting children take turns finding matches. **Creating Our Own Rhymes (7 minutes)**: Start simple rhyming creation: 'What rhymes with dog? Let's think... log, frog, hog!' Use real objects from the classroom when possible. Give each child a simple word (run, play, go) and help them brainstorm rhyming words together as a group. Write their rhyming pairs on chart paper to display. **Closing Rhyme Circle (7 minutes)**: End with a group recitation of 'Hickory Dickory Dock' with hand motions. Have children clap the rhythm while saying it together three times, getting louder each time. Send children off with a rhyming challenge: 'Find something at home that rhymes with your name!'",
+        "teacherNotes": "Keep picture cards simple with clear, recognizable images - avoid abstract concepts. When clapping rhythm, start very slowly and gradually increase speed as children get comfortable. Some children may confuse rhyming with words that start with the same sound (alliteration) - gently redirect by emphasizing the ending sounds. If children struggle with creating rhymes, provide the first sound and let them fill in (give 'c' and let them say 'cat' to rhyme with 'hat'). Use lots of repetition and praise - celebrate any attempt at rhyming even if not perfect. Have backup rhyming books ready in case activities move faster than expected."
+      },
+      "textbookPages": [
+        {
+          "pageNumber": 1,
+          "section": "Opening Spread",
+          "title": "Welcome to Rhyming Fun!",
+          "body": "Hello, little poets! Today we're going to play with special words that sound alike. These words are called rhyming words, and they make poems sound musical and fun!\n\nWhen words rhyme, they have the same sound at the end. Listen carefully: cat and hat both end with the same sound - 'at'! Can you hear it? Cat... hat... they rhyme!\n\nPoems are like songs made of words. They have a special beat called rhythm that we can clap along to. When we clap with poems, we feel the music in the words!",
+          "bullets": [
+            "Rhyming words sound the same at the end",
+            "We can clap along to poem rhythms",
+            "Poems are like word songs"
+          ],
+          "activities": [
+            "Put your hand to your ear and listen for rhyming words!"
+          ],
+          "callout": "Rhymes make poems fun to say and remember!",
+          "figureCaption": "A happy child listening carefully with hands cupped to ears"
+        },
+        {
+          "pageNumber": 2,
+          "section": "Learning About Rhymes",
+          "title": "What Makes Words Rhyme?",
+          "body": "Let's learn how to find rhyming words! When two words end with the same sound, they rhyme. It's like they're wearing matching sound hats!\n\nListen to these word families: cat, hat, bat, rat - they all end with 'at'! Now try these: dog, frog, log, hog - they all end with 'og'! Do you hear how they match?\n\nWe can make our own rhyming words too. Think of a word you like, then find other words that end the same way. It's like a fun word game!",
+          "bullets": [
+            "Rhyming words end with the same sound",
+            "Word families have matching endings",
+            "You can make your own rhymes"
+          ],
+          "activities": [
+            "Say these rhyming pairs: sun-fun, bee-tree, car-star"
+          ],
+          "callout": "All rhyming words are friends because they sound alike!",
+          "figureCaption": "Colorful word bubbles showing rhyming pairs floating in the air"
+        },
+        {
+          "pageNumber": 3,
+          "section": "Our First Poem",
+          "title": "Meet My Happy Cat",
+          "body": "Now let's read our first rhyming poem together! This poem is about a playful cat who loves to have fun outside.\n\nMy cat likes to play\nOutside every day\nShe jumps so high\nUp to the sky\n\nDid you hear the rhyming words? 'Play' and 'day' rhyme because they both end with 'ay'. 'High' and 'sky' rhyme because they both end with 'y'. The cat in our poem is very happy and active!",
+          "bullets": [
+            "Play and day are rhyming words",
+            "High and sky sound the same at the end",
+            "The cat loves playing outside"
+          ],
+          "activities": [
+            "Clap your hands while we read the poem together!"
+          ],
+          "callout": "This cat jumps as high as the sky!",
+          "figureCaption": "A cheerful orange cat jumping high in a sunny backyard"
+        },
+        {
+          "pageNumber": 4,
+          "section": "Clapping and Rhythm",
+          "title": "Feel the Beat!",
+          "body": "Every poem has a rhythm - that's the beat you can feel when you read it. It's like the heartbeat of the poem! Let's clap along to feel the rhythm.\n\nRead the cat poem again, but this time clap your hands on each word: *clap* My *clap* cat *clap* likes *clap* to *clap* play! Do you feel how each word has its own beat?\n\nWhen we clap with poems, we're keeping time like musicians do. The rhythm helps us remember the words and makes the poem more fun to say!",
+          "bullets": [
+            "Rhythm is the beat in a poem",
+            "We clap on each word to feel the beat",
+            "Rhythm makes poems musical"
+          ],
+          "activities": [
+            "Clap along as you say your favorite nursery rhyme"
+          ],
+          "callout": "Clapping helps us feel the music in words!",
+          "figureCaption": "Children sitting in a circle, clapping their hands together happily"
+        },
+        {
+          "pageNumber": 5,
+          "section": "Finding More Rhymes",
+          "title": "Rhyme Detective Game",
+          "body": "Now you're a rhyme detective! Your job is to find words that rhyme with each other. Let's practice with some fun word pairs.\n\nLook for words that sound the same at the end. If I say 'run', what words rhyme with it? Fun! Sun! Done! Bun! All these words end with the 'un' sound.\n\nTry being a detective with the word 'cake'. What rhymes with cake? Make! Take! Lake! Snake! You're getting good at this rhyme detective work!",
+          "bullets": [
+            "Detectives look and listen carefully",
+            "Many words can rhyme with one word",
+            "Practice helps you get better at finding rhymes"
+          ],
+          "activities": [
+            "Find three words that rhyme with 'ball'"
+          ],
+          "callout": "Great detectives use their ears to solve rhyme mysteries!",
+          "figureCaption": "A child wearing a detective hat and holding a magnifying glass"
+        },
+        {
+          "pageNumber": 6,
+          "section": "Making Your Own Rhymes",
+          "title": "Be a Poet!",
+          "body": "Now it's your turn to be a poet! You can make up your own rhyming words and even write simple poems. Start with words you know and love.\n\nThink of your favorite animal. Let's say it's a bear. What words rhyme with bear? Hair! Care! Share! There! Now you have lots of rhyming friends for bear.\n\nTry making a simple two-line poem: 'I saw a big brown bear, with lots of fuzzy hair!' See how bear and hair rhyme? You just wrote a poem!",
+          "bullets": [
+            "Start with words you know",
+            "Find rhyming friends for your words",
+            "Put rhyming words together to make poems"
+          ],
+          "activities": [
+            "Make up a two-line poem about your favorite toy"
+          ],
+          "callout": "Every poet started by playing with words just like you!",
+          "figureCaption": "A smiling child writing in a colorful notebook with a big pencil"
+        },
+        {
+          "pageNumber": 7,
+          "section": "Practice Time",
+          "title": "Let's Practice Together",
+          "body": "Time to practice what we've learned! We'll play some fun rhyming games and read more poems together. Remember to listen carefully and clap along!\n\nLet's try some fill-in-the-blank fun with our cat poem. 'My cat likes to ____' - what word rhymes with 'day' at the end of the next line? That's right, 'play'!\n\nNow you try: 'The cat jumps so ____' - what word at the end rhymes with 'sky'? Yes, 'high'! You're becoming excellent rhyme experts!",
+          "bullets": [
+            "Practice makes you better at finding rhymes",
+            "Fill-in-the-blank games are fun",
+            "You're learning to be a rhyme expert"
+          ],
+          "activities": [
+            "Complete this rhyme: 'I like to run and have some ___'"
+          ],
+          "callout": "Practice time is play time when you're learning about rhymes!",
+          "figureCaption": "Happy children raising their hands eagerly to answer questions"
+        },
+        {
+          "pageNumber": 8,
+          "section": "Celebration",
+          "title": "You're a Rhyming Star!",
+          "body": "Congratulations! You've learned so much about rhyming words and poems. You can find rhymes, feel rhythm, and even make your own poems. That makes you a real poet!\n\nRemember that rhymes are all around us - in songs, in books, and in the games we play. Keep listening for words that sound alike, and keep making up your own rhyming words.\n\nNow you know that words can be friends when they rhyme, and poems have heartbeats we can clap along to. Keep practicing and having fun with rhyming words every day!",
+          "bullets": [
+            "You learned to find and make rhymes",
+            "Rhymes are everywhere around us",
+            "Keep practicing and having fun with words"
+          ],
+          "activities": [
+            "Teach someone at home your favorite rhyming words"
+          ],
+          "callout": "You're a rhyming star - keep shining bright!",
+          "figureCaption": "Children dancing and celebrating with colorful ribbons and big smiles"
+        }
+      ],
+      "poemSummaries": [
+        "A playful cat loves spending time outside having fun. She jumps very high and seems so happy playing in the fresh air every single day."
+      ],
+      "keyTopics": [
+        "rhyming words",
+        "rhythm",
+        "poetry"
+      ],
+      "lessonNumber": 1
+    }
+  ]
+}
